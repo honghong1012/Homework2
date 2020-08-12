@@ -1,0 +1,6272 @@
+Mass
+0.01303
+Volume
+0.702
+Equatorial radius
+1188
+Polar radius
+1188
+Volumetric mean radius
+1188
+Ellipticity
+0.0000
+Mean density
+1854
+Surface Gravity
+0.62
+Surface acceleration
+0.62
+Escape velocity
+1.21
+GM
+0.000870
+Bond albed
+0.72
+Geometric albed
+0.52
+V-band magnitude V
+-1.0
+Solar irradiance
+0.873
+Black-body temperature
+37.5
+Number of natural satellite
+5
+Planetary ring syste
+No
+Semimajor axis
+5906.38
+Sidereal orbit period
+90,560
+Tropical orbit period
+Unknown
+Perihelion
+4436.82
+Aphelion
+7375.93
+Synodic period
+366.73
+Mean orbital velocity
+4.67
+Max. orbital velocity
+6.10
+Min. orbital velocity
+3.71
+Orbit inclination
+17.16
+Orbit eccentricit
+0.2488
+Sidereal rotation period
+-153.2928
+Length of day
+153.2820
+Obliquity to orbit
+122.53
+Inclination of equator
+57.47
+planet_name
+Pluto
+Mass
+0.33011
+Volume
+6.083
+Equatorial radius
+2439.7
+Polar radius
+2439.7
+Volumetric mean radius
+2439.7
+Ellipticity
+0.0000
+Mean density
+5427
+Surface gravity
+3.70
+Surface acceleration
+3.70
+Escape velocity
+4.3
+GM
+0.022032
+Bond albed
+0.068
+Geometric albed
+0.142
+V-band magnitude V
+-0.613
+Solar irradiance
+9082.7
+Black-body temperature
+439.6
+Topographic range
+7
+Moment of inertia
+0.35
+J2
+50.3
+Number of natural satellite
+0
+Planetary ring syste
+No
+Semimajor axis
+57.91
+Sidereal orbit period
+87.969
+Tropical orbit period
+87.968
+Perihelion
+46.00
+Aphelion
+69.82
+Synodic period
+115.88
+Mean orbital velocity
+47.36
+Max. orbital velocity
+58.98
+Min. orbital velocity
+38.86
+Orbit inclination
+7.00
+Orbit eccentricit
+0.2056
+Sidereal rotation period
+1407.6
+Length of day
+4222.6
+Obliquity to orbit
+0.034
+Inclination of equator
+0.034
+planet_name
+Mercury
+Mass
+4.8675
+Volume
+92.843
+Equatorial radius
+6051.8
+Polar radius
+6051.8
+Volumetric mean radius
+6051.8
+Ellipticity
+0.000
+Mean density
+5243
+Surface gravity
+8.87
+Surface acceleration
+8.87
+Escape velocity
+10.36
+GM
+0.32486
+Bond albed
+0.77
+Geometric albed
+0.689
+V-band magnitude V
+-4.38
+Solar irradiance
+2601.3
+Black-body temperature
+226.6
+Topographic range
+13
+Moment of inertia
+0.33
+J2
+4.458
+Number of natural satellite
+0
+Planetary ring syste
+No
+Semimajor axis
+108.21
+Sidereal orbit period
+224.701
+Tropical orbit period
+224.695
+Perihelion
+107.48
+Aphelion
+108.94
+Synodic period
+583.92
+Mean orbital velocity
+35.02
+Max. orbital velocity
+35.26
+Min. orbital velocity
+34.79
+Orbit inclination
+3.39
+Orbit eccentricit
+0.0067
+Sidereal rotation period
+-5832.6
+Length of day
+2802.0
+Obliquity to orbit
+177.36
+Inclination of equator
+2.64
+planet_name
+Venus
+Mass
+0.07346
+Volume
+2.1968
+Equatorial radius
+1738.1
+Polar radius
+1736.0
+Volumetric mean radius
+1737.4
+Ellipticity
+0.0012
+Mean density
+3344
+Surface gravity
+1.62
+Surface acceleration
+1.62
+Escape velocity
+2.38
+GM
+0.00490
+Bond albed
+0.11
+Geometric albed
+0.12
+V-band magnitude V
+-0.08
+Solar irradiance
+1361.0
+Black-body temperature
+270.4
+Topographic range
+13
+Moment of inertia
+0.394
+J2
+202.7
+Semimajor axis
+0.3844
+Perigee
+0.3633
+Apogee
+0.4055
+Revolution period
+27.3217
+Synodic period
+29.53
+Mean orbital velocity
+1.022
+Max. orbital velocity
+1.082
+Min. orbital velocity
+0.970
+Inclination to ecliptic
+5.145
+Inclination to Earth equator
+18.28 - 28.58
+Orbit eccentricit
+0.0549
+Sidereal rotation period
+655.728
+Obliquity to orbit
+6.68
+Recession rate from Earth
+3.8
+planet_name
+Moon
+Mass
+0.64171
+Volume
+16.318
+Equatorial radius
+3396.2
+Polar radius
+3376.2
+Volumetric mean radius
+3389.5
+Core radius
+1700
+Ellipticity
+0.00589
+Mean density
+3933
+Surface gravity
+3.71
+Surface acceleration
+3.69
+Escape velocity
+5.03
+GM
+0.042828
+Bond albed
+0.250
+Geometric albed
+0.170
+V-band magnitude V
+-1.60
+Solar irradiance
+586.2
+Black-body temperature
+209.8
+Topographic range
+30
+Moment of inertia
+0.366
+J2
+1960.45
+Number of natural satellite
+2
+Planetary ring syste
+No
+Semimajor axis
+227.92
+Sidereal orbit period
+686.980
+Tropical orbit period
+686.973
+Perihelion
+206.62
+Aphelion
+249.23
+Synodic period
+779.94
+Mean orbital velocity
+24.07
+Max. orbital velocity
+26.50
+Min. orbital velocity
+21.97
+Orbit inclination
+1.850
+Orbit eccentricit
+0.0935
+Sidereal rotation period
+24.6229
+Length of day
+24.6597
+Obliquity to orbit
+25.19
+Inclination of equator
+25.19
+planet_name
+Mars
+Mass
+1,898.19
+Volume
+143,128
+Equatorial radius
+71,492
+Polar radius
+66,854
+Volumetric mean radius
+69,911
+Ellipticit
+0.06487
+Mean density
+1,326
+Gravity
+24.79
+Acceleration
+23.12
+Escape velocity
+59.5
+GM
+126.687
+Bond albed
+0.343
+Geometric albed
+0.538
+V-band magnitude V
+-9.40
+Solar irradiance
+50.26
+Black-body temperature
+109.9
+Moment of inertia
+0.254
+J2
+14,736
+Number of natural satellite
+79
+Planetary ring syste
+Yes
+Semimajor axis
+778.57
+Sidereal orbit period
+4,332.589
+Tropical orbit period
+4,330.595
+Perihelion
+740.52
+Aphelion
+816.62
+Synodic period
+398.88
+Mean orbital velocity
+13.06
+Max. orbital velocity
+13.72
+Min. orbital velocity
+12.44
+Orbit inclination
+1.304
+Orbit eccentricit
+0.0489
+Sidereal rotation period
+9.9250*
+Length of day
+9.9259
+Obliquity to orbit
+3.13
+Inclination of equator
+3.13
+planet_name
+Jupiter
+Mass
+568.34
+Volume
+82,713
+Equatorial radius
+60,268
+Polar radius
+54,364
+Volumetric mean radius
+58,232
+Ellipticity
+0.09796
+Mean density
+687
+Gravity
+10.44
+Acceleration
+8.96
+Escape velocity
+35.5
+GM
+37.931
+Bond albed
+0.342
+Geometric albed
+0.499
+V-band magnitude V
+-8.91
+Solar irradiance
+14.82
+Black-body temperature
+81.0
+Moment of inertia
+0.210
+J2
+16,298.
+Number of natural satellite
+82
+Planetary ring syste
+Yes
+Semimajor axis
+1,433.53
+Sidereal orbit period
+10,759.22
+Tropical orbit period
+10,746.94
+Perihelion
+1,352.55
+Aphelion
+1,514.50
+Synodic period
+378.09
+Mean orbital velocity
+9.68
+Max. orbital velocity
+10.18
+Min. orbital velocity
+9.09
+Orbit inclination
+2.485
+Orbit eccentricit
+0.0565
+Sidereal rotation period
+10.656*
+Length of day
+10.656
+Obliquity to orbit
+26.73
+planet_name
+Saturn
+Mass
+86.813
+Volume
+6,833
+Equatorial radius
+25,559
+Polar radius
+24,973
+Volumetric mean radius
+25,362
+Ellipticity
+0.02293
+Mean density
+1,271
+Gravity
+8.87
+Acceleration
+8.69
+Escape velocity
+21.3
+GM
+5.7940
+Bond albed
+0.300
+Geometric albed
+0.488
+V-band magnitude V
+-7.11
+Solar irradiance
+3.69
+Black-body temperature
+58.1
+Moment of inertia
+0.225
+J2
+3343.43
+Number of natural satellite
+27
+Planetary ring syste
+Yes
+Semimajor axis
+2,872.46
+Sidereal orbit period
+30,685.4
+Tropical orbit period
+30,588.740
+Perihelion
+2,741.30
+Aphelion
+3,003.62
+Synodic period
+369.66
+Mean orbital velocity
+6.80
+Max. orbital velocity
+7.11
+Min. orbital velocity
+6.49
+Orbit inclination
+0.772
+Orbit eccentricit
+0.0457
+Sidereal rotation period
+-17.24*
+Length of day
+17.24
+Obliquity to orbit
+97.77
+Inclination of equator
+82.23
+planet_name
+Uranus
+Mass
+102.413
+Volume
+6, 254
+Equatorial radius
+24,764
+Polar radius
+24,341
+Volumetric mean radius
+24,622
+Ellipticity
+0.01708
+Mean density
+1,638
+Gravity
+11.15
+Acceleration
+11.00
+Escape velocity
+23.5
+GM
+6.8351
+Bond albed
+0.290
+Geometric albed
+0.442
+V-band magnitude V
+-6.94
+Solar irradiance
+1.508
+Black-body temperature
+46.6
+J2
+3411.
+Number of natural satellite
+14
+Planetary ring syste
+Yes
+Semimajor axis
+4,495.06
+Sidereal orbit period
+60,189.
+Tropical orbit period
+59,799.9
+Perihelion
+4,444.45
+Aphelion
+4,545.67
+Synodic period
+367.49
+Mean orbital velocity
+5.43
+Max. orbital velocity
+5.50
+Min. orbital velocity
+5.37
+Orbit inclination
+1.769
+Orbit eccentricit
+0.0113
+Sidereal rotation period
+16.11*
+Length of day
+16.11
+Obliquity to orbit
+28.32
+Inclination of equator
+28.32
+planet_name
+Neptune
+Mass
+0.01303
+Volume
+0.702
+Equatorial radius
+1188
+Polar radius
+1188
+Volumetric mean radius
+1188
+Ellipticity
+0.0000
+Mean density
+1854
+Surface Gravity
+0.62
+Surface acceleration
+0.62
+Escape velocity
+1.21
+GM
+0.000870
+Bond albed
+0.72
+Geometric albed
+0.52
+V-band magnitude V
+-1.0
+Solar irradiance
+0.873
+Black-body temperature
+37.5
+Number of natural satellite
+5
+Planetary ring syste
+No
+Semimajor axis
+5906.38
+Sidereal orbit period
+90,560
+Tropical orbit period
+Unknown
+Perihelion
+4436.82
+Aphelion
+7375.93
+Synodic period
+366.73
+Mean orbital velocity
+4.67
+Max. orbital velocity
+6.10
+Min. orbital velocity
+3.71
+Orbit inclination
+17.16
+Orbit eccentricit
+0.2488
+Sidereal rotation period
+-153.2928
+Length of day
+153.2820
+Obliquity to orbit
+122.53
+Inclination of equator
+57.47
+planet_name
+Pluto
+Mass
+0.33011
+Volume
+6.083
+Equatorial radius
+2439.7
+Polar radius
+2439.7
+Volumetric mean radius
+2439.7
+Ellipticity
+0.0000
+Mean density
+5427
+Surface gravity
+3.70
+Surface acceleration
+3.70
+Escape velocity
+4.3
+GM
+0.022032
+Bond albed
+0.068
+Geometric albed
+0.142
+V-band magnitude V
+-0.613
+Solar irradiance
+9082.7
+Black-body temperature
+439.6
+Topographic range
+7
+Moment of inertia
+0.35
+J2
+50.3
+Number of natural satellite
+0
+Planetary ring syste
+No
+Semimajor axis
+57.91
+Sidereal orbit period
+87.969
+Tropical orbit period
+87.968
+Perihelion
+46.00
+Aphelion
+69.82
+Synodic period
+115.88
+Mean orbital velocity
+47.36
+Max. orbital velocity
+58.98
+Min. orbital velocity
+38.86
+Orbit inclination
+7.00
+Orbit eccentricit
+0.2056
+Sidereal rotation period
+1407.6
+Length of day
+4222.6
+Obliquity to orbit
+0.034
+Inclination of equator
+0.034
+planet_name
+Mercury
+Mass
+4.8675
+Volume
+92.843
+Equatorial radius
+6051.8
+Polar radius
+6051.8
+Volumetric mean radius
+6051.8
+Ellipticity
+0.000
+Mean density
+5243
+Surface gravity
+8.87
+Surface acceleration
+8.87
+Escape velocity
+10.36
+GM
+0.32486
+Bond albed
+0.77
+Geometric albed
+0.689
+V-band magnitude V
+-4.38
+Solar irradiance
+2601.3
+Black-body temperature
+226.6
+Topographic range
+13
+Moment of inertia
+0.33
+J2
+4.458
+Number of natural satellite
+0
+Planetary ring syste
+No
+Semimajor axis
+108.21
+Sidereal orbit period
+224.701
+Tropical orbit period
+224.695
+Perihelion
+107.48
+Aphelion
+108.94
+Synodic period
+583.92
+Mean orbital velocity
+35.02
+Max. orbital velocity
+35.26
+Min. orbital velocity
+34.79
+Orbit inclination
+3.39
+Orbit eccentricit
+0.0067
+Sidereal rotation period
+-5832.6
+Length of day
+2802.0
+Obliquity to orbit
+177.36
+Inclination of equator
+2.64
+planet_name
+Venus
+Mass
+0.07346
+Volume
+2.1968
+Equatorial radius
+1738.1
+Polar radius
+1736.0
+Volumetric mean radius
+1737.4
+Ellipticity
+0.0012
+Mean density
+3344
+Surface gravity
+1.62
+Surface acceleration
+1.62
+Escape velocity
+2.38
+GM
+0.00490
+Bond albed
+0.11
+Geometric albed
+0.12
+V-band magnitude V
+-0.08
+Solar irradiance
+1361.0
+Black-body temperature
+270.4
+Topographic range
+13
+Moment of inertia
+0.394
+J2
+202.7
+Semimajor axis
+0.3844
+Perigee
+0.3633
+Apogee
+0.4055
+Revolution period
+27.3217
+Synodic period
+29.53
+Mean orbital velocity
+1.022
+Max. orbital velocity
+1.082
+Min. orbital velocity
+0.970
+Inclination to ecliptic
+5.145
+Inclination to Earth equator
+18.28 - 28.58
+Orbit eccentricit
+0.0549
+Sidereal rotation period
+655.728
+Obliquity to orbit
+6.68
+Recession rate from Earth
+3.8
+planet_name
+Moon
+Mass
+0.64171
+Volume
+16.318
+Equatorial radius
+3396.2
+Polar radius
+3376.2
+Volumetric mean radius
+3389.5
+Core radius
+1700
+Ellipticity
+0.00589
+Mean density
+3933
+Surface gravity
+3.71
+Surface acceleration
+3.69
+Escape velocity
+5.03
+GM
+0.042828
+Bond albed
+0.250
+Geometric albed
+0.170
+V-band magnitude V
+-1.60
+Solar irradiance
+586.2
+Black-body temperature
+209.8
+Topographic range
+30
+Moment of inertia
+0.366
+J2
+1960.45
+Number of natural satellite
+2
+Planetary ring syste
+No
+Semimajor axis
+227.92
+Sidereal orbit period
+686.980
+Tropical orbit period
+686.973
+Perihelion
+206.62
+Aphelion
+249.23
+Synodic period
+779.94
+Mean orbital velocity
+24.07
+Max. orbital velocity
+26.50
+Min. orbital velocity
+21.97
+Orbit inclination
+1.850
+Orbit eccentricit
+0.0935
+Sidereal rotation period
+24.6229
+Length of day
+24.6597
+Obliquity to orbit
+25.19
+Inclination of equator
+25.19
+planet_name
+Mars
+Mass
+1,898.19
+Volume
+143,128
+Equatorial radius
+71,492
+Polar radius
+66,854
+Volumetric mean radius
+69,911
+Ellipticit
+0.06487
+Mean density
+1,326
+Gravity
+24.79
+Acceleration
+23.12
+Escape velocity
+59.5
+GM
+126.687
+Bond albed
+0.343
+Geometric albed
+0.538
+V-band magnitude V
+-9.40
+Solar irradiance
+50.26
+Black-body temperature
+109.9
+Moment of inertia
+0.254
+J2
+14,736
+Number of natural satellite
+79
+Planetary ring syste
+Yes
+Semimajor axis
+778.57
+Sidereal orbit period
+4,332.589
+Tropical orbit period
+4,330.595
+Perihelion
+740.52
+Aphelion
+816.62
+Synodic period
+398.88
+Mean orbital velocity
+13.06
+Max. orbital velocity
+13.72
+Min. orbital velocity
+12.44
+Orbit inclination
+1.304
+Orbit eccentricit
+0.0489
+Sidereal rotation period
+9.9250*
+Length of day
+9.9259
+Obliquity to orbit
+3.13
+Inclination of equator
+3.13
+planet_name
+Jupiter
+Mass
+568.34
+Volume
+82,713
+Equatorial radius
+60,268
+Polar radius
+54,364
+Volumetric mean radius
+58,232
+Ellipticity
+0.09796
+Mean density
+687
+Gravity
+10.44
+Acceleration
+8.96
+Escape velocity
+35.5
+GM
+37.931
+Bond albed
+0.342
+Geometric albed
+0.499
+V-band magnitude V
+-8.91
+Solar irradiance
+14.82
+Black-body temperature
+81.0
+Moment of inertia
+0.210
+J2
+16,298.
+Number of natural satellite
+82
+Planetary ring syste
+Yes
+Semimajor axis
+1,433.53
+Sidereal orbit period
+10,759.22
+Tropical orbit period
+10,746.94
+Perihelion
+1,352.55
+Aphelion
+1,514.50
+Synodic period
+378.09
+Mean orbital velocity
+9.68
+Max. orbital velocity
+10.18
+Min. orbital velocity
+9.09
+Orbit inclination
+2.485
+Orbit eccentricit
+0.0565
+Sidereal rotation period
+10.656*
+Length of day
+10.656
+Obliquity to orbit
+26.73
+planet_name
+Saturn
+Mass
+86.813
+Volume
+6,833
+Equatorial radius
+25,559
+Polar radius
+24,973
+Volumetric mean radius
+25,362
+Ellipticity
+0.02293
+Mean density
+1,271
+Gravity
+8.87
+Acceleration
+8.69
+Escape velocity
+21.3
+GM
+5.7940
+Bond albed
+0.300
+Geometric albed
+0.488
+V-band magnitude V
+-7.11
+Solar irradiance
+3.69
+Black-body temperature
+58.1
+Moment of inertia
+0.225
+J2
+3343.43
+Number of natural satellite
+27
+Planetary ring syste
+Yes
+Semimajor axis
+2,872.46
+Sidereal orbit period
+30,685.4
+Tropical orbit period
+30,588.740
+Perihelion
+2,741.30
+Aphelion
+3,003.62
+Synodic period
+369.66
+Mean orbital velocity
+6.80
+Max. orbital velocity
+7.11
+Min. orbital velocity
+6.49
+Orbit inclination
+0.772
+Orbit eccentricit
+0.0457
+Sidereal rotation period
+-17.24*
+Length of day
+17.24
+Obliquity to orbit
+97.77
+Inclination of equator
+82.23
+planet_name
+Uranus
+Mass
+102.413
+Volume
+6, 254
+Equatorial radius
+24,764
+Polar radius
+24,341
+Volumetric mean radius
+24,622
+Ellipticity
+0.01708
+Mean density
+1,638
+Gravity
+11.15
+Acceleration
+11.00
+Escape velocity
+23.5
+GM
+6.8351
+Bond albed
+0.290
+Geometric albed
+0.442
+V-band magnitude V
+-6.94
+Solar irradiance
+1.508
+Black-body temperature
+46.6
+J2
+3411.
+Number of natural satellite
+14
+Planetary ring syste
+Yes
+Semimajor axis
+4,495.06
+Sidereal orbit period
+60,189.
+Tropical orbit period
+59,799.9
+Perihelion
+4,444.45
+Aphelion
+4,545.67
+Synodic period
+367.49
+Mean orbital velocity
+5.43
+Max. orbital velocity
+5.50
+Min. orbital velocity
+5.37
+Orbit inclination
+1.769
+Orbit eccentricit
+0.0113
+Sidereal rotation period
+16.11*
+Length of day
+16.11
+Obliquity to orbit
+28.32
+Inclination of equator
+28.32
+planet_name
+Neptune
+Mass
+0.01303
+Volume
+0.702
+Equatorial radius
+1188
+Polar radius
+1188
+Volumetric mean radius
+1188
+Ellipticity
+0.0000
+Mean density
+1854
+Surface Gravity
+0.62
+Surface acceleration
+0.62
+Escape velocity
+1.21
+GM
+0.000870
+Bond albed
+0.72
+Geometric albed
+0.52
+V-band magnitude V
+-1.0
+Solar irradiance
+0.873
+Black-body temperature
+37.5
+Number of natural satellite
+5
+Planetary ring syste
+No
+Semimajor axis
+5906.38
+Sidereal orbit period
+90,560
+Tropical orbit period
+Unknown
+Perihelion
+4436.82
+Aphelion
+7375.93
+Synodic period
+366.73
+Mean orbital velocity
+4.67
+Max. orbital velocity
+6.10
+Min. orbital velocity
+3.71
+Orbit inclination
+17.16
+Orbit eccentricit
+0.2488
+Sidereal rotation period
+-153.2928
+Length of day
+153.2820
+Obliquity to orbit
+122.53
+Inclination of equator
+57.47
+planet_name
+Pluto
+Mass
+0.33011
+Volume
+6.083
+Equatorial radius
+2439.7
+Polar radius
+2439.7
+Volumetric mean radius
+2439.7
+Ellipticity
+0.0000
+Mean density
+5427
+Surface gravity
+3.70
+Surface acceleration
+3.70
+Escape velocity
+4.3
+GM
+0.022032
+Bond albed
+0.068
+Geometric albed
+0.142
+V-band magnitude V
+-0.613
+Solar irradiance
+9082.7
+Black-body temperature
+439.6
+Topographic range
+7
+Moment of inertia
+0.35
+J2
+50.3
+Number of natural satellite
+0
+Planetary ring syste
+No
+Semimajor axis
+57.91
+Sidereal orbit period
+87.969
+Tropical orbit period
+87.968
+Perihelion
+46.00
+Aphelion
+69.82
+Synodic period
+115.88
+Mean orbital velocity
+47.36
+Max. orbital velocity
+58.98
+Min. orbital velocity
+38.86
+Orbit inclination
+7.00
+Orbit eccentricit
+0.2056
+Sidereal rotation period
+1407.6
+Length of day
+4222.6
+Obliquity to orbit
+0.034
+Inclination of equator
+0.034
+planet_name
+Mercury
+Mass
+4.8675
+Volume
+92.843
+Equatorial radius
+6051.8
+Polar radius
+6051.8
+Volumetric mean radius
+6051.8
+Ellipticity
+0.000
+Mean density
+5243
+Surface gravity
+8.87
+Surface acceleration
+8.87
+Escape velocity
+10.36
+GM
+0.32486
+Bond albed
+0.77
+Geometric albed
+0.689
+V-band magnitude V
+-4.38
+Solar irradiance
+2601.3
+Black-body temperature
+226.6
+Topographic range
+13
+Moment of inertia
+0.33
+J2
+4.458
+Number of natural satellite
+0
+Planetary ring syste
+No
+Semimajor axis
+108.21
+Sidereal orbit period
+224.701
+Tropical orbit period
+224.695
+Perihelion
+107.48
+Aphelion
+108.94
+Synodic period
+583.92
+Mean orbital velocity
+35.02
+Max. orbital velocity
+35.26
+Min. orbital velocity
+34.79
+Orbit inclination
+3.39
+Orbit eccentricit
+0.0067
+Sidereal rotation period
+-5832.6
+Length of day
+2802.0
+Obliquity to orbit
+177.36
+Inclination of equator
+2.64
+planet_name
+Venus
+Mass
+0.33011
+Volume
+6.083
+Equatorial radius
+2439.7
+Polar radius
+2439.7
+Volumetric mean radius
+2439.7
+Ellipticity
+0.0000
+Mean density
+5427
+Surface gravity
+3.70
+Surface acceleration
+3.70
+Escape velocity
+4.3
+GM
+0.022032
+Bond albed
+0.068
+Geometric albed
+0.142
+V-band magnitude V
+-0.613
+Solar irradiance
+9082.7
+Black-body temperature
+439.6
+Topographic range
+7
+Moment of inertia
+0.35
+J2
+50.3
+Number of natural satellite
+0
+Planetary ring syste
+No
+Semimajor axis
+57.91
+Sidereal orbit period
+87.969
+Tropical orbit period
+87.968
+Perihelion
+46.00
+Aphelion
+69.82
+Synodic period
+115.88
+Mean orbital velocity
+47.36
+Max. orbital velocity
+58.98
+Min. orbital velocity
+38.86
+Orbit inclination
+7.00
+Orbit eccentricit
+0.2056
+Sidereal rotation period
+1407.6
+Length of day
+4222.6
+Obliquity to orbit
+0.034
+Inclination of equator
+0.034
+planet_name
+Mercury
+Equatorial
+null
+radius
+null
+Mass
+4.8675
+Volume
+92.843
+Equatorial radius
+6051.8
+Polar radius
+6051.8
+Volumetric mean radius
+6051.8
+Ellipticity
+0.000
+Mean density
+5243
+Surface gravity
+8.87
+Surface acceleration
+8.87
+Escape velocity
+10.36
+GM
+0.32486
+Bond albed
+0.77
+Geometric albed
+0.689
+V-band magnitude V
+-4.38
+Solar irradiance
+2601.3
+Black-body temperature
+226.6
+Topographic range
+13
+Moment of inertia
+0.33
+J2
+4.458
+Number of natural satellite
+0
+Planetary ring syste
+No
+Semimajor axis
+108.21
+Sidereal orbit period
+224.701
+Tropical orbit period
+224.695
+Perihelion
+107.48
+Aphelion
+108.94
+Synodic period
+583.92
+Mean orbital velocity
+35.02
+Max. orbital velocity
+35.26
+Min. orbital velocity
+34.79
+Orbit inclination
+3.39
+Orbit eccentricit
+0.0067
+Sidereal rotation period
+-5832.6
+Length of day
+2802.0
+Obliquity to orbit
+177.36
+Inclination of equator
+2.64
+planet_name
+Venus
+Equatorial
+null
+radius
+null
+Mass
+0.07346
+Volume
+2.1968
+Equatorial radius
+1738.1
+Polar radius
+1736.0
+Volumetric mean radius
+1737.4
+Ellipticity
+0.0012
+Mean density
+3344
+Surface gravity
+1.62
+Surface acceleration
+1.62
+Escape velocity
+2.38
+GM
+0.00490
+Bond albed
+0.11
+Geometric albed
+0.12
+V-band magnitude V
+-0.08
+Solar irradiance
+1361.0
+Black-body temperature
+270.4
+Topographic range
+13
+Moment of inertia
+0.394
+J2
+202.7
+Semimajor axis
+0.3844
+Perigee
+0.3633
+Apogee
+0.4055
+Revolution period
+27.3217
+Synodic period
+29.53
+Mean orbital velocity
+1.022
+Max. orbital velocity
+1.082
+Min. orbital velocity
+0.970
+Inclination to ecliptic
+5.145
+Inclination to Earth equator
+18.28 - 28.58
+Orbit eccentricit
+0.0549
+Sidereal rotation period
+655.728
+Obliquity to orbit
+6.68
+Recession rate from Earth
+3.8
+planet_name
+Moon
+Equatorial
+null
+radius
+null
+Number of natural satellite
+null
+Planetary ring syste
+null
+Sidereal orbit period
+null
+Tropical orbit period
+null
+Perihelion
+null
+Aphelion
+null
+Orbit inclination
+null
+Length of day
+null
+Inclination of equator
+null
+Mass
+0.64171
+Volume
+16.318
+Equatorial radius
+3396.2
+Polar radius
+3376.2
+Volumetric mean radius
+3389.5
+Core radius
+1700
+Ellipticity
+0.00589
+Mean density
+3933
+Surface gravity
+3.71
+Surface acceleration
+3.69
+Escape velocity
+5.03
+GM
+0.042828
+Bond albed
+0.250
+Geometric albed
+0.170
+V-band magnitude V
+-1.60
+Solar irradiance
+586.2
+Black-body temperature
+209.8
+Topographic range
+30
+Moment of inertia
+0.366
+J2
+1960.45
+Number of natural satellite
+2
+Planetary ring syste
+No
+Semimajor axis
+227.92
+Sidereal orbit period
+686.980
+Tropical orbit period
+686.973
+Perihelion
+206.62
+Aphelion
+249.23
+Synodic period
+779.94
+Mean orbital velocity
+24.07
+Max. orbital velocity
+26.50
+Min. orbital velocity
+21.97
+Orbit inclination
+1.850
+Orbit eccentricit
+0.0935
+Sidereal rotation period
+24.6229
+Length of day
+24.6597
+Obliquity to orbit
+25.19
+Inclination of equator
+25.19
+planet_name
+Mars
+Equatorial
+null
+radius
+null
+Mass
+1,898.19
+Volume
+143,128
+Equatorial radius
+71,492
+Polar radius
+66,854
+Volumetric mean radius
+69,911
+Ellipticit
+0.06487
+Mean density
+1,326
+Gravity
+24.79
+Acceleration
+23.12
+Escape velocity
+59.5
+GM
+126.687
+Bond albed
+0.343
+Geometric albed
+0.538
+V-band magnitude V
+-9.40
+Solar irradiance
+50.26
+Black-body temperature
+109.9
+Moment of inertia
+0.254
+J2
+14,736
+Number of natural satellite
+79
+Planetary ring syste
+Yes
+Semimajor axis
+778.57
+Sidereal orbit period
+4,332.589
+Tropical orbit period
+4,330.595
+Perihelion
+740.52
+Aphelion
+816.62
+Synodic period
+398.88
+Mean orbital velocity
+13.06
+Max. orbital velocity
+13.72
+Min. orbital velocity
+12.44
+Orbit inclination
+1.304
+Orbit eccentricit
+0.0489
+Sidereal rotation period
+9.9250*
+Length of day
+9.9259
+Obliquity to orbit
+3.13
+Inclination of equator
+3.13
+planet_name
+Jupiter
+Equatorial
+null
+radius
+null
+Ellipticity
+null
+Surface gravity
+null
+Surface acceleration
+null
+Topographic range
+null
+Mass
+568.34
+Volume
+82,713
+Equatorial radius
+60,268
+Polar radius
+54,364
+Volumetric mean radius
+58,232
+Ellipticity
+0.09796
+Mean density
+687
+Gravity
+10.44
+Acceleration
+8.96
+Escape velocity
+35.5
+GM
+37.931
+Bond albed
+0.342
+Geometric albed
+0.499
+V-band magnitude V
+-8.91
+Solar irradiance
+14.82
+Black-body temperature
+81.0
+Moment of inertia
+0.210
+J2
+16,298.
+Number of natural satellite
+82
+Planetary ring syste
+Yes
+Semimajor axis
+1,433.53
+Sidereal orbit period
+10,759.22
+Tropical orbit period
+10,746.94
+Perihelion
+1,352.55
+Aphelion
+1,514.50
+Synodic period
+378.09
+Mean orbital velocity
+9.68
+Max. orbital velocity
+10.18
+Min. orbital velocity
+9.09
+Orbit inclination
+2.485
+Orbit eccentricit
+0.0565
+Sidereal rotation period
+10.656*
+Length of day
+10.656
+Obliquity to orbit
+26.73
+planet_name
+Saturn
+Equatorial
+null
+radius
+null
+Surface gravity
+null
+Surface acceleration
+null
+Topographic range
+null
+Inclination of equator
+null
+Mass
+86.813
+Volume
+6,833
+Equatorial radius
+25,559
+Polar radius
+24,973
+Volumetric mean radius
+25,362
+Ellipticity
+0.02293
+Mean density
+1,271
+Gravity
+8.87
+Acceleration
+8.69
+Escape velocity
+21.3
+GM
+5.7940
+Bond albed
+0.300
+Geometric albed
+0.488
+V-band magnitude V
+-7.11
+Solar irradiance
+3.69
+Black-body temperature
+58.1
+Moment of inertia
+0.225
+J2
+3343.43
+Number of natural satellite
+27
+Planetary ring syste
+Yes
+Semimajor axis
+2,872.46
+Sidereal orbit period
+30,685.4
+Tropical orbit period
+30,588.740
+Perihelion
+2,741.30
+Aphelion
+3,003.62
+Synodic period
+369.66
+Mean orbital velocity
+6.80
+Max. orbital velocity
+7.11
+Min. orbital velocity
+6.49
+Orbit inclination
+0.772
+Orbit eccentricit
+0.0457
+Sidereal rotation period
+-17.24*
+Length of day
+17.24
+Obliquity to orbit
+97.77
+Inclination of equator
+82.23
+planet_name
+Uranus
+Equatorial
+null
+radius
+null
+Surface gravity
+null
+Surface acceleration
+null
+Topographic range
+null
+Mass
+102.413
+Volume
+6, 254
+Equatorial radius
+24,764
+Polar radius
+24,341
+Volumetric mean radius
+24,622
+Ellipticity
+0.01708
+Mean density
+1,638
+Gravity
+11.15
+Acceleration
+11.00
+Escape velocity
+23.5
+GM
+6.8351
+Bond albed
+0.290
+Geometric albed
+0.442
+V-band magnitude V
+-6.94
+Solar irradiance
+1.508
+Black-body temperature
+46.6
+J2
+3411.
+Number of natural satellite
+14
+Planetary ring syste
+Yes
+Semimajor axis
+4,495.06
+Sidereal orbit period
+60,189.
+Tropical orbit period
+59,799.9
+Perihelion
+4,444.45
+Aphelion
+4,545.67
+Synodic period
+367.49
+Mean orbital velocity
+5.43
+Max. orbital velocity
+5.50
+Min. orbital velocity
+5.37
+Orbit inclination
+1.769
+Orbit eccentricit
+0.0113
+Sidereal rotation period
+16.11*
+Length of day
+16.11
+Obliquity to orbit
+28.32
+Inclination of equator
+28.32
+planet_name
+Neptune
+Equatorial
+null
+radius
+null
+Surface gravity
+null
+Surface acceleration
+null
+Topographic range
+null
+Moment of inertia
+null
+Mass
+0.01303
+Volume
+0.702
+Equatorial radius
+1188
+Polar radius
+1188
+Volumetric mean radius
+1188
+Ellipticity
+0.0000
+Mean density
+1854
+Surface Gravity
+0.62
+Surface acceleration
+0.62
+Escape velocity
+1.21
+GM
+0.000870
+Bond albed
+0.72
+Geometric albed
+0.52
+V-band magnitude V
+-1.0
+Solar irradiance
+0.873
+Black-body temperature
+37.5
+Number of natural satellite
+5
+Planetary ring syste
+No
+Semimajor axis
+5906.38
+Sidereal orbit period
+90,560
+Tropical orbit period
+Unknown
+Perihelion
+4436.82
+Aphelion
+7375.93
+Synodic period
+366.73
+Mean orbital velocity
+4.67
+Max. orbital velocity
+6.10
+Min. orbital velocity
+3.71
+Orbit inclination
+17.16
+Orbit eccentricit
+0.2488
+Sidereal rotation period
+-153.2928
+Length of day
+153.2820
+Obliquity to orbit
+122.53
+Inclination of equator
+57.47
+planet_name
+Pluto
+Equatorial
+null
+radius
+null
+Surface gravity
+null
+Topographic range
+null
+Moment of inertia
+null
+J2
+null
+Mass
+0.33011
+Volume
+6.083
+Equatorial radius
+2439.7
+Polar radius
+2439.7
+Volumetric mean radius
+2439.7
+Ellipticity
+0.0000
+Mean density
+5427
+Surface gravity
+3.70
+Surface acceleration
+3.70
+Escape velocity
+4.3
+GM
+0.022032
+Bond albed
+0.068
+Geometric albed
+0.142
+V-band magnitude V
+-0.613
+Solar irradiance
+9082.7
+Black-body temperature
+439.6
+Topographic range
+7
+Moment of inertia
+0.35
+J2
+50.3
+Number of natural satellite
+0
+Planetary ring syste
+No
+Semimajor axis
+57.91
+Sidereal orbit period
+87.969
+Tropical orbit period
+87.968
+Perihelion
+46.00
+Aphelion
+69.82
+Synodic period
+115.88
+Mean orbital velocity
+47.36
+Max. orbital velocity
+58.98
+Min. orbital velocity
+38.86
+Orbit inclination
+7.00
+Orbit eccentricit
+0.2056
+Sidereal rotation period
+1407.6
+Length of day
+4222.6
+Obliquity to orbit
+0.034
+Inclination of equator
+0.034
+planet_name
+Mercury
+Equatorial
+null
+radius
+null
+Mass
+4.8675
+Volume
+92.843
+Equatorial radius
+6051.8
+Polar radius
+6051.8
+Volumetric mean radius
+6051.8
+Ellipticity
+0.000
+Mean density
+5243
+Surface gravity
+8.87
+Surface acceleration
+8.87
+Escape velocity
+10.36
+GM
+0.32486
+Bond albed
+0.77
+Geometric albed
+0.689
+V-band magnitude V
+-4.38
+Solar irradiance
+2601.3
+Black-body temperature
+226.6
+Topographic range
+13
+Moment of inertia
+0.33
+J2
+4.458
+Number of natural satellite
+0
+Planetary ring syste
+No
+Semimajor axis
+108.21
+Sidereal orbit period
+224.701
+Tropical orbit period
+224.695
+Perihelion
+107.48
+Aphelion
+108.94
+Synodic period
+583.92
+Mean orbital velocity
+35.02
+Max. orbital velocity
+35.26
+Min. orbital velocity
+34.79
+Orbit inclination
+3.39
+Orbit eccentricit
+0.0067
+Sidereal rotation period
+-5832.6
+Length of day
+2802.0
+Obliquity to orbit
+177.36
+Inclination of equator
+2.64
+planet_name
+Venus
+Equatorial
+null
+radius
+null
+Mass
+0.07346
+Volume
+2.1968
+Equatorial radius
+1738.1
+Polar radius
+1736.0
+Volumetric mean radius
+1737.4
+Ellipticity
+0.0012
+Mean density
+3344
+Surface gravity
+1.62
+Surface acceleration
+1.62
+Escape velocity
+2.38
+GM
+0.00490
+Bond albed
+0.11
+Geometric albed
+0.12
+V-band magnitude V
+-0.08
+Solar irradiance
+1361.0
+Black-body temperature
+270.4
+Topographic range
+13
+Moment of inertia
+0.394
+J2
+202.7
+Semimajor axis
+0.3844
+Perigee
+0.3633
+Apogee
+0.4055
+Revolution period
+27.3217
+Synodic period
+29.53
+Mean orbital velocity
+1.022
+Max. orbital velocity
+1.082
+Min. orbital velocity
+0.970
+Inclination to ecliptic
+5.145
+Inclination to Earth equator
+18.28 - 28.58
+Orbit eccentricit
+0.0549
+Sidereal rotation period
+655.728
+Obliquity to orbit
+6.68
+Recession rate from Earth
+3.8
+planet_name
+Moon
+Equatorial
+null
+radius
+null
+Number of natural satellite
+null
+Planetary ring syste
+null
+Sidereal orbit period
+null
+Tropical orbit period
+null
+Perihelion
+null
+Aphelion
+null
+Orbit inclination
+null
+Length of day
+null
+Inclination of equator
+null
+Mass
+0.64171
+Volume
+16.318
+Equatorial radius
+3396.2
+Polar radius
+3376.2
+Volumetric mean radius
+3389.5
+Core radius
+1700
+Ellipticity
+0.00589
+Mean density
+3933
+Surface gravity
+3.71
+Surface acceleration
+3.69
+Escape velocity
+5.03
+GM
+0.042828
+Bond albed
+0.250
+Geometric albed
+0.170
+V-band magnitude V
+-1.60
+Solar irradiance
+586.2
+Black-body temperature
+209.8
+Topographic range
+30
+Moment of inertia
+0.366
+J2
+1960.45
+Number of natural satellite
+2
+Planetary ring syste
+No
+Semimajor axis
+227.92
+Sidereal orbit period
+686.980
+Tropical orbit period
+686.973
+Perihelion
+206.62
+Aphelion
+249.23
+Synodic period
+779.94
+Mean orbital velocity
+24.07
+Max. orbital velocity
+26.50
+Min. orbital velocity
+21.97
+Orbit inclination
+1.850
+Orbit eccentricit
+0.0935
+Sidereal rotation period
+24.6229
+Length of day
+24.6597
+Obliquity to orbit
+25.19
+Inclination of equator
+25.19
+planet_name
+Mars
+Equatorial
+null
+radius
+null
+Mass
+1,898.19
+Volume
+143,128
+Equatorial radius
+71,492
+Polar radius
+66,854
+Volumetric mean radius
+69,911
+Ellipticit
+0.06487
+Mean density
+1,326
+Gravity
+24.79
+Acceleration
+23.12
+Escape velocity
+59.5
+GM
+126.687
+Bond albed
+0.343
+Geometric albed
+0.538
+V-band magnitude V
+-9.40
+Solar irradiance
+50.26
+Black-body temperature
+109.9
+Moment of inertia
+0.254
+J2
+14,736
+Number of natural satellite
+79
+Planetary ring syste
+Yes
+Semimajor axis
+778.57
+Sidereal orbit period
+4,332.589
+Tropical orbit period
+4,330.595
+Perihelion
+740.52
+Aphelion
+816.62
+Synodic period
+398.88
+Mean orbital velocity
+13.06
+Max. orbital velocity
+13.72
+Min. orbital velocity
+12.44
+Orbit inclination
+1.304
+Orbit eccentricit
+0.0489
+Sidereal rotation period
+9.9250*
+Length of day
+9.9259
+Obliquity to orbit
+3.13
+Inclination of equator
+3.13
+planet_name
+Jupiter
+Equatorial
+null
+radius
+null
+Ellipticity
+null
+Surface gravity
+null
+Surface acceleration
+null
+Topographic range
+null
+Mass
+568.34
+Volume
+82,713
+Equatorial radius
+60,268
+Polar radius
+54,364
+Volumetric mean radius
+58,232
+Ellipticity
+0.09796
+Mean density
+687
+Gravity
+10.44
+Acceleration
+8.96
+Escape velocity
+35.5
+GM
+37.931
+Bond albed
+0.342
+Geometric albed
+0.499
+V-band magnitude V
+-8.91
+Solar irradiance
+14.82
+Black-body temperature
+81.0
+Moment of inertia
+0.210
+J2
+16,298.
+Number of natural satellite
+82
+Planetary ring syste
+Yes
+Semimajor axis
+1,433.53
+Sidereal orbit period
+10,759.22
+Tropical orbit period
+10,746.94
+Perihelion
+1,352.55
+Aphelion
+1,514.50
+Synodic period
+378.09
+Mean orbital velocity
+9.68
+Max. orbital velocity
+10.18
+Min. orbital velocity
+9.09
+Orbit inclination
+2.485
+Orbit eccentricit
+0.0565
+Sidereal rotation period
+10.656*
+Length of day
+10.656
+Obliquity to orbit
+26.73
+planet_name
+Saturn
+Equatorial
+null
+radius
+null
+Surface gravity
+null
+Surface acceleration
+null
+Topographic range
+null
+Inclination of equator
+null
+Mass
+86.813
+Volume
+6,833
+Equatorial radius
+25,559
+Polar radius
+24,973
+Volumetric mean radius
+25,362
+Ellipticity
+0.02293
+Mean density
+1,271
+Gravity
+8.87
+Acceleration
+8.69
+Escape velocity
+21.3
+GM
+5.7940
+Bond albed
+0.300
+Geometric albed
+0.488
+V-band magnitude V
+-7.11
+Solar irradiance
+3.69
+Black-body temperature
+58.1
+Moment of inertia
+0.225
+J2
+3343.43
+Number of natural satellite
+27
+Planetary ring syste
+Yes
+Semimajor axis
+2,872.46
+Sidereal orbit period
+30,685.4
+Tropical orbit period
+30,588.740
+Perihelion
+2,741.30
+Aphelion
+3,003.62
+Synodic period
+369.66
+Mean orbital velocity
+6.80
+Max. orbital velocity
+7.11
+Min. orbital velocity
+6.49
+Orbit inclination
+0.772
+Orbit eccentricit
+0.0457
+Sidereal rotation period
+-17.24*
+Length of day
+17.24
+Obliquity to orbit
+97.77
+Inclination of equator
+82.23
+planet_name
+Uranus
+Equatorial
+null
+radius
+null
+Surface gravity
+null
+Surface acceleration
+null
+Topographic range
+null
+Mass
+102.413
+Volume
+6, 254
+Equatorial radius
+24,764
+Polar radius
+24,341
+Volumetric mean radius
+24,622
+Ellipticity
+0.01708
+Mean density
+1,638
+Gravity
+11.15
+Acceleration
+11.00
+Escape velocity
+23.5
+GM
+6.8351
+Bond albed
+0.290
+Geometric albed
+0.442
+V-band magnitude V
+-6.94
+Solar irradiance
+1.508
+Black-body temperature
+46.6
+J2
+3411.
+Number of natural satellite
+14
+Planetary ring syste
+Yes
+Semimajor axis
+4,495.06
+Sidereal orbit period
+60,189.
+Tropical orbit period
+59,799.9
+Perihelion
+4,444.45
+Aphelion
+4,545.67
+Synodic period
+367.49
+Mean orbital velocity
+5.43
+Max. orbital velocity
+5.50
+Min. orbital velocity
+5.37
+Orbit inclination
+1.769
+Orbit eccentricit
+0.0113
+Sidereal rotation period
+16.11*
+Length of day
+16.11
+Obliquity to orbit
+28.32
+Inclination of equator
+28.32
+planet_name
+Neptune
+Equatorial
+null
+radius
+null
+Surface gravity
+null
+Surface acceleration
+null
+Topographic range
+null
+Moment of inertia
+null
+Mass
+0.33011
+Volume
+6.083
+Equatorial radius
+2439.7
+Polar radius
+2439.7
+Volumetric mean radius
+2439.7
+Ellipticity
+0.0000
+Mean density
+5427
+Surface gravity
+3.70
+Surface acceleration
+3.70
+Escape velocity
+4.3
+GM
+0.022032
+Bond albed
+0.068
+Geometric albed
+0.142
+V-band magnitude V
+-0.613
+Solar irradiance
+9082.7
+Black-body temperature
+439.6
+Topographic range
+7
+Moment of inertia
+0.35
+J2
+50.3
+Number of natural satellite
+0
+Planetary ring syste
+No
+Semimajor axis
+57.91
+Sidereal orbit period
+87.969
+Tropical orbit period
+87.968
+Perihelion
+46.00
+Aphelion
+69.82
+Synodic period
+115.88
+Mean orbital velocity
+47.36
+Max. orbital velocity
+58.98
+Min. orbital velocity
+38.86
+Orbit inclination
+7.00
+Orbit eccentricit
+0.2056
+Sidereal rotation period
+1407.6
+Length of day
+4222.6
+Obliquity to orbit
+0.034
+Inclination of equator
+0.034
+planet_name
+Mercury
+Equatorial
+null
+radius
+null
+Mass
+4.8675
+Volume
+92.843
+Equatorial radius
+6051.8
+Polar radius
+6051.8
+Volumetric mean radius
+6051.8
+Ellipticity
+0.000
+Mean density
+5243
+Surface gravity
+8.87
+Surface acceleration
+8.87
+Escape velocity
+10.36
+GM
+0.32486
+Bond albed
+0.77
+Geometric albed
+0.689
+V-band magnitude V
+-4.38
+Solar irradiance
+2601.3
+Black-body temperature
+226.6
+Topographic range
+13
+Moment of inertia
+0.33
+J2
+4.458
+Number of natural satellite
+0
+Planetary ring syste
+No
+Semimajor axis
+108.21
+Sidereal orbit period
+224.701
+Tropical orbit period
+224.695
+Perihelion
+107.48
+Aphelion
+108.94
+Synodic period
+583.92
+Mean orbital velocity
+35.02
+Max. orbital velocity
+35.26
+Min. orbital velocity
+34.79
+Orbit inclination
+3.39
+Orbit eccentricit
+0.0067
+Sidereal rotation period
+-5832.6
+Length of day
+2802.0
+Obliquity to orbit
+177.36
+Inclination of equator
+2.64
+planet_name
+Venus
+Equatorial
+null
+radius
+null
+Mass
+0.33011
+Volume
+6.083
+Equatorial radius
+2439.7
+Polar radius
+2439.7
+Volumetric mean radius
+2439.7
+Ellipticity
+0.0000
+Mean density
+5427
+Surface gravity
+3.70
+Surface acceleration
+3.70
+Escape velocity
+4.3
+GM
+0.022032
+Bond albed
+0.068
+Geometric albed
+0.142
+V-band magnitude V
+-0.613
+Solar irradiance
+9082.7
+Black-body temperature
+439.6
+Topographic range
+7
+Moment of inertia
+0.35
+J2
+50.3
+Number of natural satellite
+0
+Planetary ring syste
+No
+Semimajor axis
+57.91
+Sidereal orbit period
+87.969
+Tropical orbit period
+87.968
+Perihelion
+46.00
+Aphelion
+69.82
+Synodic period
+115.88
+Mean orbital velocity
+47.36
+Max. orbital velocity
+58.98
+Min. orbital velocity
+38.86
+Orbit inclination
+7.00
+Orbit eccentricit
+0.2056
+Sidereal rotation period
+1407.6
+Length of day
+4222.6
+Obliquity to orbit
+0.034
+Inclination of equator
+0.034
+planet_name
+Mercury
+Equatorial
+null
+radius
+null
+Mass
+4.8675
+Volume
+92.843
+Equatorial radius
+6051.8
+Polar radius
+6051.8
+Volumetric mean radius
+6051.8
+Ellipticity
+0.000
+Mean density
+5243
+Surface gravity
+8.87
+Surface acceleration
+8.87
+Escape velocity
+10.36
+GM
+0.32486
+Bond albed
+0.77
+Geometric albed
+0.689
+V-band magnitude V
+-4.38
+Solar irradiance
+2601.3
+Black-body temperature
+226.6
+Topographic range
+13
+Moment of inertia
+0.33
+J2
+4.458
+Number of natural satellite
+0
+Planetary ring syste
+No
+Semimajor axis
+108.21
+Sidereal orbit period
+224.701
+Tropical orbit period
+224.695
+Perihelion
+107.48
+Aphelion
+108.94
+Synodic period
+583.92
+Mean orbital velocity
+35.02
+Max. orbital velocity
+35.26
+Min. orbital velocity
+34.79
+Orbit inclination
+3.39
+Orbit eccentricit
+0.0067
+Sidereal rotation period
+-5832.6
+Length of day
+2802.0
+Obliquity to orbit
+177.36
+Inclination of equator
+2.64
+planet_name
+Venus
+Equatorial
+null
+radius
+null
+Mass
+0.07346
+Volume
+2.1968
+Equatorial radius
+1738.1
+Polar radius
+1736.0
+Volumetric mean radius
+1737.4
+Ellipticity
+0.0012
+Mean density
+3344
+Surface gravity
+1.62
+Surface acceleration
+1.62
+Escape velocity
+2.38
+GM
+0.00490
+Bond albed
+0.11
+Geometric albed
+0.12
+V-band magnitude V
+-0.08
+Solar irradiance
+1361.0
+Black-body temperature
+270.4
+Topographic range
+13
+Moment of inertia
+0.394
+J2
+202.7
+Semimajor axis
+0.3844
+Perigee
+0.3633
+Apogee
+0.4055
+Revolution period
+27.3217
+Synodic period
+29.53
+Mean orbital velocity
+1.022
+Max. orbital velocity
+1.082
+Min. orbital velocity
+0.970
+Inclination to ecliptic
+5.145
+Inclination to Earth equator
+18.28 - 28.58
+Orbit eccentricit
+0.0549
+Sidereal rotation period
+655.728
+Obliquity to orbit
+6.68
+Recession rate from Earth
+3.8
+planet_name
+Moon
+Equatorial
+null
+radius
+null
+Number of natural satellite
+null
+Planetary ring syste
+null
+Sidereal orbit period
+null
+Tropical orbit period
+null
+Perihelion
+null
+Aphelion
+null
+Orbit inclination
+null
+Length of day
+null
+Inclination of equator
+null
+Mass
+0.64171
+Volume
+16.318
+Equatorial radius
+3396.2
+Polar radius
+3376.2
+Volumetric mean radius
+3389.5
+Core radius
+1700
+Ellipticity
+0.00589
+Mean density
+3933
+Surface gravity
+3.71
+Surface acceleration
+3.69
+Escape velocity
+5.03
+GM
+0.042828
+Bond albed
+0.250
+Geometric albed
+0.170
+V-band magnitude V
+-1.60
+Solar irradiance
+586.2
+Black-body temperature
+209.8
+Topographic range
+30
+Moment of inertia
+0.366
+J2
+1960.45
+Number of natural satellite
+2
+Planetary ring syste
+No
+Semimajor axis
+227.92
+Sidereal orbit period
+686.980
+Tropical orbit period
+686.973
+Perihelion
+206.62
+Aphelion
+249.23
+Synodic period
+779.94
+Mean orbital velocity
+24.07
+Max. orbital velocity
+26.50
+Min. orbital velocity
+21.97
+Orbit inclination
+1.850
+Orbit eccentricit
+0.0935
+Sidereal rotation period
+24.6229
+Length of day
+24.6597
+Obliquity to orbit
+25.19
+Inclination of equator
+25.19
+planet_name
+Mars
+Equatorial
+null
+radius
+null
+Mass
+1,898.19
+Volume
+143,128
+Equatorial radius
+71,492
+Polar radius
+66,854
+Volumetric mean radius
+69,911
+Ellipticit
+0.06487
+Mean density
+1,326
+Gravity
+24.79
+Acceleration
+23.12
+Escape velocity
+59.5
+GM
+126.687
+Bond albed
+0.343
+Geometric albed
+0.538
+V-band magnitude V
+-9.40
+Solar irradiance
+50.26
+Black-body temperature
+109.9
+Moment of inertia
+0.254
+J2
+14,736
+Number of natural satellite
+79
+Planetary ring syste
+Yes
+Semimajor axis
+778.57
+Sidereal orbit period
+4,332.589
+Tropical orbit period
+4,330.595
+Perihelion
+740.52
+Aphelion
+816.62
+Synodic period
+398.88
+Mean orbital velocity
+13.06
+Max. orbital velocity
+13.72
+Min. orbital velocity
+12.44
+Orbit inclination
+1.304
+Orbit eccentricit
+0.0489
+Sidereal rotation period
+9.9250*
+Length of day
+9.9259
+Obliquity to orbit
+3.13
+Inclination of equator
+3.13
+planet_name
+Jupiter
+Equatorial
+null
+radius
+null
+Ellipticity
+null
+Surface gravity
+null
+Surface acceleration
+null
+Topographic range
+null
+Mass
+568.34
+Volume
+82,713
+Equatorial radius
+60,268
+Polar radius
+54,364
+Volumetric mean radius
+58,232
+Ellipticity
+0.09796
+Mean density
+687
+Gravity
+10.44
+Acceleration
+8.96
+Escape velocity
+35.5
+GM
+37.931
+Bond albed
+0.342
+Geometric albed
+0.499
+V-band magnitude V
+-8.91
+Solar irradiance
+14.82
+Black-body temperature
+81.0
+Moment of inertia
+0.210
+J2
+16,298.
+Number of natural satellite
+82
+Planetary ring syste
+Yes
+Semimajor axis
+1,433.53
+Sidereal orbit period
+10,759.22
+Tropical orbit period
+10,746.94
+Perihelion
+1,352.55
+Aphelion
+1,514.50
+Synodic period
+378.09
+Mean orbital velocity
+9.68
+Max. orbital velocity
+10.18
+Min. orbital velocity
+9.09
+Orbit inclination
+2.485
+Orbit eccentricit
+0.0565
+Sidereal rotation period
+10.656*
+Length of day
+10.656
+Obliquity to orbit
+26.73
+planet_name
+Saturn
+Equatorial
+null
+radius
+null
+Surface gravity
+null
+Surface acceleration
+null
+Topographic range
+null
+Inclination of equator
+null
+Mass
+86.813
+Volume
+6,833
+Equatorial radius
+25,559
+Polar radius
+24,973
+Volumetric mean radius
+25,362
+Ellipticity
+0.02293
+Mean density
+1,271
+Gravity
+8.87
+Acceleration
+8.69
+Escape velocity
+21.3
+GM
+5.7940
+Bond albed
+0.300
+Geometric albed
+0.488
+V-band magnitude V
+-7.11
+Solar irradiance
+3.69
+Black-body temperature
+58.1
+Moment of inertia
+0.225
+J2
+3343.43
+Number of natural satellite
+27
+Planetary ring syste
+Yes
+Semimajor axis
+2,872.46
+Sidereal orbit period
+30,685.4
+Tropical orbit period
+30,588.740
+Perihelion
+2,741.30
+Aphelion
+3,003.62
+Synodic period
+369.66
+Mean orbital velocity
+6.80
+Max. orbital velocity
+7.11
+Min. orbital velocity
+6.49
+Orbit inclination
+0.772
+Orbit eccentricit
+0.0457
+Sidereal rotation period
+-17.24*
+Length of day
+17.24
+Obliquity to orbit
+97.77
+Inclination of equator
+82.23
+planet_name
+Uranus
+Equatorial
+null
+radius
+null
+Surface gravity
+null
+Surface acceleration
+null
+Topographic range
+null
+Mass
+102.413
+Volume
+6, 254
+Equatorial radius
+24,764
+Polar radius
+24,341
+Volumetric mean radius
+24,622
+Ellipticity
+0.01708
+Mean density
+1,638
+Gravity
+11.15
+Acceleration
+11.00
+Escape velocity
+23.5
+GM
+6.8351
+Bond albed
+0.290
+Geometric albed
+0.442
+V-band magnitude V
+-6.94
+Solar irradiance
+1.508
+Black-body temperature
+46.6
+J2
+3411.
+Number of natural satellite
+14
+Planetary ring syste
+Yes
+Semimajor axis
+4,495.06
+Sidereal orbit period
+60,189.
+Tropical orbit period
+59,799.9
+Perihelion
+4,444.45
+Aphelion
+4,545.67
+Synodic period
+367.49
+Mean orbital velocity
+5.43
+Max. orbital velocity
+5.50
+Min. orbital velocity
+5.37
+Orbit inclination
+1.769
+Orbit eccentricit
+0.0113
+Sidereal rotation period
+16.11*
+Length of day
+16.11
+Obliquity to orbit
+28.32
+Inclination of equator
+28.32
+planet_name
+Neptune
+Equatorial
+null
+radius
+null
+Surface gravity
+null
+Surface acceleration
+null
+Topographic range
+null
+Moment of inertia
+null
+Mass
+0.01303
+Volume
+0.702
+Equatorial radius
+1188
+Polar radius
+1188
+Volumetric mean radius
+1188
+Ellipticity
+0.0000
+Mean density
+1854
+Surface Gravity
+0.62
+Surface acceleration
+0.62
+Escape velocity
+1.21
+GM
+0.000870
+Bond albed
+0.72
+Geometric albed
+0.52
+V-band magnitude V
+-1.0
+Solar irradiance
+0.873
+Black-body temperature
+37.5
+Number of natural satellite
+5
+Planetary ring syste
+No
+Semimajor axis
+5906.38
+Sidereal orbit period
+90,560
+Tropical orbit period
+Unknown
+Perihelion
+4436.82
+Aphelion
+7375.93
+Synodic period
+366.73
+Mean orbital velocity
+4.67
+Max. orbital velocity
+6.10
+Min. orbital velocity
+3.71
+Orbit inclination
+17.16
+Orbit eccentricit
+0.2488
+Sidereal rotation period
+-153.2928
+Length of day
+153.2820
+Obliquity to orbit
+122.53
+Inclination of equator
+57.47
+planet_name
+Pluto
+Equatorial
+null
+radius
+null
+Surface gravity
+null
+Topographic range
+null
+Moment of inertia
+null
+J2
+null
+Mass
+0.33011
+Volume
+6.083
+Equatorial radius
+2439.7
+Polar radius
+2439.7
+Volumetric mean radius
+2439.7
+Ellipticity
+0.0000
+Mean density
+5427
+Surface gravity
+3.70
+Surface acceleration
+3.70
+Escape velocity
+4.3
+GM
+0.022032
+Bond albed
+0.068
+Geometric albed
+0.142
+V-band magnitude V
+-0.613
+Solar irradiance
+9082.7
+Black-body temperature
+439.6
+Topographic range
+7
+Moment of inertia
+0.35
+J2
+50.3
+Number of natural satellite
+0
+Planetary ring syste
+No
+Semimajor axis
+57.91
+Sidereal orbit period
+87.969
+Tropical orbit period
+87.968
+Perihelion
+46.00
+Aphelion
+69.82
+Synodic period
+115.88
+Mean orbital velocity
+47.36
+Max. orbital velocity
+58.98
+Min. orbital velocity
+38.86
+Orbit inclination
+7.00
+Orbit eccentricit
+0.2056
+Sidereal rotation period
+1407.6
+Length of day
+4222.6
+Obliquity to orbit
+0.034
+Inclination of equator
+0.034
+planet_name
+Mercury
+Equatorial
+null
+radius
+null
+Mass
+0.33011
+Volume
+6.083
+Equatorial radius
+2439.7
+Polar radius
+2439.7
+Volumetric mean radius
+2439.7
+Ellipticity
+0.0000
+Mean density
+5427
+Surface gravity
+3.70
+Surface acceleration
+3.70
+Escape velocity
+4.3
+GM
+0.022032
+Bond albed
+0.068
+Geometric albed
+0.142
+V-band magnitude V
+-0.613
+Solar irradiance
+9082.7
+Black-body temperature
+439.6
+Topographic range
+7
+Moment of inertia
+0.35
+J2
+50.3
+Number of natural satellite
+0
+Planetary ring syste
+No
+Semimajor axis
+57.91
+Sidereal orbit period
+87.969
+Tropical orbit period
+87.968
+Perihelion
+46.00
+Aphelion
+69.82
+Synodic period
+115.88
+Mean orbital velocity
+47.36
+Max. orbital velocity
+58.98
+Min. orbital velocity
+38.86
+Orbit inclination
+7.00
+Orbit eccentricit
+0.2056
+Sidereal rotation period
+1407.6
+Length of day
+4222.6
+Obliquity to orbit
+0.034
+Inclination of equator
+0.034
+planet_name
+Mercury
+Equatorial
+null
+radius
+null
+Mass
+4.8675
+Volume
+92.843
+Equatorial radius
+6051.8
+Polar radius
+6051.8
+Volumetric mean radius
+6051.8
+Ellipticity
+0.000
+Mean density
+5243
+Surface gravity
+8.87
+Surface acceleration
+8.87
+Escape velocity
+10.36
+GM
+0.32486
+Bond albed
+0.77
+Geometric albed
+0.689
+V-band magnitude V
+-4.38
+Solar irradiance
+2601.3
+Black-body temperature
+226.6
+Topographic range
+13
+Moment of inertia
+0.33
+J2
+4.458
+Number of natural satellite
+0
+Planetary ring syste
+No
+Semimajor axis
+108.21
+Sidereal orbit period
+224.701
+Tropical orbit period
+224.695
+Perihelion
+107.48
+Aphelion
+108.94
+Synodic period
+583.92
+Mean orbital velocity
+35.02
+Max. orbital velocity
+35.26
+Min. orbital velocity
+34.79
+Orbit inclination
+3.39
+Orbit eccentricit
+0.0067
+Sidereal rotation period
+-5832.6
+Length of day
+2802.0
+Obliquity to orbit
+177.36
+Inclination of equator
+2.64
+planet_name
+Venus
+Equatorial
+null
+radius
+null
+Mass
+0.07346
+Volume
+2.1968
+Equatorial radius
+1738.1
+Polar radius
+1736.0
+Volumetric mean radius
+1737.4
+Ellipticity
+0.0012
+Mean density
+3344
+Surface gravity
+1.62
+Surface acceleration
+1.62
+Escape velocity
+2.38
+GM
+0.00490
+Bond albed
+0.11
+Geometric albed
+0.12
+V-band magnitude V
+-0.08
+Solar irradiance
+1361.0
+Black-body temperature
+270.4
+Topographic range
+13
+Moment of inertia
+0.394
+J2
+202.7
+Semimajor axis
+0.3844
+Perigee
+0.3633
+Apogee
+0.4055
+Revolution period
+27.3217
+Synodic period
+29.53
+Mean orbital velocity
+1.022
+Max. orbital velocity
+1.082
+Min. orbital velocity
+0.970
+Inclination to ecliptic
+5.145
+Inclination to Earth equator
+18.28 - 28.58
+Orbit eccentricit
+0.0549
+Sidereal rotation period
+655.728
+Obliquity to orbit
+6.68
+Recession rate from Earth
+3.8
+planet_name
+Moon
+Equatorial
+null
+radius
+null
+Number of natural satellite
+null
+Planetary ring syste
+null
+Sidereal orbit period
+null
+Tropical orbit period
+null
+Perihelion
+null
+Aphelion
+null
+Orbit inclination
+null
+Length of day
+null
+Inclination of equator
+null
+Mass
+0.33011
+Volume
+6.083
+Equatorial radius
+2439.7
+Polar radius
+2439.7
+Volumetric mean radius
+2439.7
+Ellipticity
+0.0000
+Mean density
+5427
+Surface gravity
+3.70
+Surface acceleration
+3.70
+Escape velocity
+4.3
+GM
+0.022032
+Bond albed
+0.068
+Geometric albed
+0.142
+V-band magnitude V
+-0.613
+Solar irradiance
+9082.7
+Black-body temperature
+439.6
+Topographic range
+7
+Moment of inertia
+0.35
+J2
+50.3
+Number of natural satellite
+0
+Planetary ring syste
+No
+Semimajor axis
+57.91
+Sidereal orbit period
+87.969
+Tropical orbit period
+87.968
+Perihelion
+46.00
+Aphelion
+69.82
+Synodic period
+115.88
+Mean orbital velocity
+47.36
+Max. orbital velocity
+58.98
+Min. orbital velocity
+38.86
+Orbit inclination
+7.00
+Orbit eccentricit
+0.2056
+Sidereal rotation period
+1407.6
+Length of day
+4222.6
+Obliquity to orbit
+0.034
+Inclination of equator
+0.034
+planet_name
+Mercury
+Equatorial
+null
+radius
+null
+Mass
+0.33011
+Volume
+6.083
+Equatorial radius
+2439.7
+Polar radius
+2439.7
+Volumetric mean radius
+2439.7
+Ellipticity
+0.0000
+Mean density
+5427
+Surface gravity
+3.70
+Surface acceleration
+3.70
+Escape velocity
+4.3
+GM
+0.022032
+Bond albed
+0.068
+Geometric albed
+0.142
+V-band magnitude V
+-0.613
+Solar irradiance
+9082.7
+Black-body temperature
+439.6
+Topographic range
+7
+Moment of inertia
+0.35
+J2
+50.3
+Number of natural satellite
+0
+Planetary ring syste
+No
+Semimajor axis
+57.91
+Sidereal orbit period
+87.969
+Tropical orbit period
+87.968
+Perihelion
+46.00
+Aphelion
+69.82
+Synodic period
+115.88
+Mean orbital velocity
+47.36
+Max. orbital velocity
+58.98
+Min. orbital velocity
+38.86
+Orbit inclination
+7.00
+Orbit eccentricit
+0.2056
+Sidereal rotation period
+1407.6
+Length of day
+4222.6
+Obliquity to orbit
+0.034
+Inclination of equator
+0.034
+planet_name
+Mercury
+Equatorial
+null
+radius
+null
+Mass
+0.33011
+Volume
+6.083
+Equatorial radius
+2439.7
+Polar radius
+2439.7
+Volumetric mean radius
+2439.7
+Ellipticity
+0.0000
+Mean density
+5427
+Surface gravity
+3.70
+Surface acceleration
+3.70
+Escape velocity
+4.3
+GM
+0.022032
+Bond albed
+0.068
+Geometric albed
+0.142
+V-band magnitude V
+-0.613
+Solar irradiance
+9082.7
+Black-body temperature
+439.6
+Topographic range
+7
+Moment of inertia
+0.35
+J2
+50.3
+Number of natural satellite
+0
+Planetary ring syste
+No
+Semimajor axis
+57.91
+Sidereal orbit period
+87.969
+Tropical orbit period
+87.968
+Perihelion
+46.00
+Aphelion
+69.82
+Synodic period
+115.88
+Mean orbital velocity
+47.36
+Max. orbital velocity
+58.98
+Min. orbital velocity
+38.86
+Orbit inclination
+7.00
+Orbit eccentricit
+0.2056
+Sidereal rotation period
+1407.6
+Length of day
+4222.6
+Obliquity to orbit
+0.034
+Inclination of equator
+0.034
+planet_name
+Mercury
+Equatorial
+null
+radius
+null
+Mass
+0.33011
+Volume
+6.083
+Equatorial radius
+2439.7
+Polar radius
+2439.7
+Volumetric mean radius
+2439.7
+Ellipticity
+0.0000
+Mean density
+5427
+Surface gravity
+3.70
+Surface acceleration
+3.70
+Escape velocity
+4.3
+GM
+0.022032
+Bond albed
+0.068
+Geometric albed
+0.142
+V-band magnitude V
+-0.613
+Solar irradiance
+9082.7
+Black-body temperature
+439.6
+Topographic range
+7
+Moment of inertia
+0.35
+J2
+50.3
+Number of natural satellite
+0
+Planetary ring syste
+No
+Semimajor axis
+57.91
+Sidereal orbit period
+87.969
+Tropical orbit period
+87.968
+Perihelion
+46.00
+Aphelion
+69.82
+Synodic period
+115.88
+Mean orbital velocity
+47.36
+Max. orbital velocity
+58.98
+Min. orbital velocity
+38.86
+Orbit inclination
+7.00
+Orbit eccentricit
+0.2056
+Sidereal rotation period
+1407.6
+Length of day
+4222.6
+Obliquity to orbit
+0.034
+Inclination of equator
+0.034
+planet_name
+Mercury
+Equatorial
+null
+radius
+null
+Mass
+0.33011
+Volume
+6.083
+Equatorial radius
+2439.7
+Polar radius
+2439.7
+Volumetric mean radius
+2439.7
+Ellipticity
+0.0000
+Mean density
+5427
+Surface gravity
+3.70
+Surface acceleration
+3.70
+Escape velocity
+4.3
+GM
+0.022032
+Bond albed
+0.068
+Geometric albed
+0.142
+V-band magnitude V
+-0.613
+Solar irradiance
+9082.7
+Black-body temperature
+439.6
+Topographic range
+7
+Moment of inertia
+0.35
+J2
+50.3
+Number of natural satellite
+0
+Planetary ring syste
+No
+Semimajor axis
+57.91
+Sidereal orbit period
+87.969
+Tropical orbit period
+87.968
+Perihelion
+46.00
+Aphelion
+69.82
+Synodic period
+115.88
+Mean orbital velocity
+47.36
+Max. orbital velocity
+58.98
+Min. orbital velocity
+38.86
+Orbit inclination
+7.00
+Orbit eccentricit
+0.2056
+Sidereal rotation period
+1407.6
+Length of day
+4222.6
+Obliquity to orbit
+0.034
+Inclination of equator
+0.034
+planet_name
+Mercury
+Equatorial
+null
+radius
+null
+Mass
+0.33011
+Volume
+6.083
+Equatorial radius
+2439.7
+Polar radius
+2439.7
+Volumetric mean radius
+2439.7
+Ellipticity
+0.0000
+Mean density
+5427
+Surface gravity
+3.70
+Surface acceleration
+3.70
+Escape velocity
+4.3
+GM
+0.022032
+Bond albed
+0.068
+Geometric albed
+0.142
+V-band magnitude V
+-0.613
+Solar irradiance
+9082.7
+Black-body temperature
+439.6
+Topographic range
+7
+Moment of inertia
+0.35
+J2
+50.3
+Number of natural satellite
+0
+Planetary ring syste
+No
+Semimajor axis
+57.91
+Sidereal orbit period
+87.969
+Tropical orbit period
+87.968
+Perihelion
+46.00
+Aphelion
+69.82
+Synodic period
+115.88
+Mean orbital velocity
+47.36
+Max. orbital velocity
+58.98
+Min. orbital velocity
+38.86
+Orbit inclination
+7.00
+Orbit eccentricit
+0.2056
+Sidereal rotation period
+1407.6
+Length of day
+4222.6
+Obliquity to orbit
+0.034
+Inclination of equator
+0.034
+planet_name
+Mercury
+Equatorial
+null
+radius
+null
+Mass
+0.33011
+Volume
+6.083
+Equatorial radius
+2439.7
+Polar radius
+2439.7
+Volumetric mean radius
+2439.7
+Ellipticity
+0.0000
+Mean density
+5427
+Surface gravity
+3.70
+Surface acceleration
+3.70
+Escape velocity
+4.3
+GM
+0.022032
+Bond albed
+0.068
+Geometric albed
+0.142
+V-band magnitude V
+-0.613
+Solar irradiance
+9082.7
+Black-body temperature
+439.6
+Topographic range
+7
+Moment of inertia
+0.35
+J2
+50.3
+Number of natural satellite
+0
+Planetary ring syste
+No
+Semimajor axis
+57.91
+Sidereal orbit period
+87.969
+Tropical orbit period
+87.968
+Perihelion
+46.00
+Aphelion
+69.82
+Synodic period
+115.88
+Mean orbital velocity
+47.36
+Max. orbital velocity
+58.98
+Min. orbital velocity
+38.86
+Orbit inclination
+7.00
+Orbit eccentricit
+0.2056
+Sidereal rotation period
+1407.6
+Length of day
+4222.6
+Obliquity to orbit
+0.034
+Inclination of equator
+0.034
+planet_name
+Mercury
+Equatorial
+null
+radius
+null
+Mass
+4.8675
+Volume
+92.843
+Equatorial radius
+6051.8
+Polar radius
+6051.8
+Volumetric mean radius
+6051.8
+Ellipticity
+0.000
+Mean density
+5243
+Surface gravity
+8.87
+Surface acceleration
+8.87
+Escape velocity
+10.36
+GM
+0.32486
+Bond albed
+0.77
+Geometric albed
+0.689
+V-band magnitude V
+-4.38
+Solar irradiance
+2601.3
+Black-body temperature
+226.6
+Topographic range
+13
+Moment of inertia
+0.33
+J2
+4.458
+Number of natural satellite
+0
+Planetary ring syste
+No
+Semimajor axis
+108.21
+Sidereal orbit period
+224.701
+Tropical orbit period
+224.695
+Perihelion
+107.48
+Aphelion
+108.94
+Synodic period
+583.92
+Mean orbital velocity
+35.02
+Max. orbital velocity
+35.26
+Min. orbital velocity
+34.79
+Orbit inclination
+3.39
+Orbit eccentricit
+0.0067
+Sidereal rotation period
+-5832.6
+Length of day
+2802.0
+Obliquity to orbit
+177.36
+Inclination of equator
+2.64
+planet_name
+Venus
+Equatorial
+null
+radius
+null
+Mass
+0.07346
+Volume
+2.1968
+Equatorial radius
+1738.1
+Polar radius
+1736.0
+Volumetric mean radius
+1737.4
+Ellipticity
+0.0012
+Mean density
+3344
+Surface gravity
+1.62
+Surface acceleration
+1.62
+Escape velocity
+2.38
+GM
+0.00490
+Bond albed
+0.11
+Geometric albed
+0.12
+V-band magnitude V
+-0.08
+Solar irradiance
+1361.0
+Black-body temperature
+270.4
+Topographic range
+13
+Moment of inertia
+0.394
+J2
+202.7
+Semimajor axis
+0.3844
+Perigee
+0.3633
+Apogee
+0.4055
+Revolution period
+27.3217
+Synodic period
+29.53
+Mean orbital velocity
+1.022
+Max. orbital velocity
+1.082
+Min. orbital velocity
+0.970
+Inclination to ecliptic
+5.145
+Inclination to Earth equator
+18.28 - 28.58
+Orbit eccentricit
+0.0549
+Sidereal rotation period
+655.728
+Obliquity to orbit
+6.68
+Recession rate from Earth
+3.8
+planet_name
+Moon
+Equatorial
+null
+radius
+null
+Number of natural satellite
+null
+Planetary ring syste
+null
+Sidereal orbit period
+null
+Tropical orbit period
+null
+Perihelion
+null
+Aphelion
+null
+Orbit inclination
+null
+Length of day
+null
+Inclination of equator
+null
+Mass
+0.64171
+Volume
+16.318
+Equatorial radius
+3396.2
+Polar radius
+3376.2
+Volumetric mean radius
+3389.5
+Core radius
+1700
+Ellipticity
+0.00589
+Mean density
+3933
+Surface gravity
+3.71
+Surface acceleration
+3.69
+Escape velocity
+5.03
+GM
+0.042828
+Bond albed
+0.250
+Geometric albed
+0.170
+V-band magnitude V
+-1.60
+Solar irradiance
+586.2
+Black-body temperature
+209.8
+Topographic range
+30
+Moment of inertia
+0.366
+J2
+1960.45
+Number of natural satellite
+2
+Planetary ring syste
+No
+Semimajor axis
+227.92
+Sidereal orbit period
+686.980
+Tropical orbit period
+686.973
+Perihelion
+206.62
+Aphelion
+249.23
+Synodic period
+779.94
+Mean orbital velocity
+24.07
+Max. orbital velocity
+26.50
+Min. orbital velocity
+21.97
+Orbit inclination
+1.850
+Orbit eccentricit
+0.0935
+Sidereal rotation period
+24.6229
+Length of day
+24.6597
+Obliquity to orbit
+25.19
+Inclination of equator
+25.19
+planet_name
+Mars
+Equatorial
+null
+radius
+null
+Mass
+1,898.19
+Volume
+143,128
+Equatorial radius
+71,492
+Polar radius
+66,854
+Volumetric mean radius
+69,911
+Ellipticit
+0.06487
+Mean density
+1,326
+Gravity
+24.79
+Acceleration
+23.12
+Escape velocity
+59.5
+GM
+126.687
+Bond albed
+0.343
+Geometric albed
+0.538
+V-band magnitude V
+-9.40
+Solar irradiance
+50.26
+Black-body temperature
+109.9
+Moment of inertia
+0.254
+J2
+14,736
+Number of natural satellite
+79
+Planetary ring syste
+Yes
+Semimajor axis
+778.57
+Sidereal orbit period
+4,332.589
+Tropical orbit period
+4,330.595
+Perihelion
+740.52
+Aphelion
+816.62
+Synodic period
+398.88
+Mean orbital velocity
+13.06
+Max. orbital velocity
+13.72
+Min. orbital velocity
+12.44
+Orbit inclination
+1.304
+Orbit eccentricit
+0.0489
+Sidereal rotation period
+9.9250*
+Length of day
+9.9259
+Obliquity to orbit
+3.13
+Inclination of equator
+3.13
+planet_name
+Jupiter
+Equatorial
+null
+radius
+null
+Ellipticity
+null
+Surface gravity
+null
+Surface acceleration
+null
+Topographic range
+null
+Mass
+0.33011
+Volume
+6.083
+Equatorial radius
+2439.7
+Polar radius
+2439.7
+Volumetric mean radius
+2439.7
+Ellipticity
+0.0000
+Mean density
+5427
+Surface gravity
+3.70
+Surface acceleration
+3.70
+Escape velocity
+4.3
+GM
+0.022032
+Bond albed
+0.068
+Geometric albed
+0.142
+V-band magnitude V
+-0.613
+Solar irradiance
+9082.7
+Black-body temperature
+439.6
+Topographic range
+7
+Moment of inertia
+0.35
+J2
+50.3
+Number of natural satellite
+0
+Planetary ring syste
+No
+Semimajor axis
+57.91
+Sidereal orbit period
+87.969
+Tropical orbit period
+87.968
+Perihelion
+46.00
+Aphelion
+69.82
+Synodic period
+115.88
+Mean orbital velocity
+47.36
+Max. orbital velocity
+58.98
+Min. orbital velocity
+38.86
+Orbit inclination
+7.00
+Orbit eccentricit
+0.2056
+Sidereal rotation period
+1407.6
+Length of day
+4222.6
+Obliquity to orbit
+0.034
+Inclination of equator
+0.034
+planet_name
+Mercury
+Equatorial
+null
+radius
+null
+Mass
+0.33011
+Volume
+6.083
+Equatorial radius
+2439.7
+Polar radius
+2439.7
+Volumetric mean radius
+2439.7
+Ellipticity
+0.0000
+Mean density
+5427
+Surface gravity
+3.70
+Surface acceleration
+3.70
+Escape velocity
+4.3
+GM
+0.022032
+Bond albed
+0.068
+Geometric albed
+0.142
+V-band magnitude V
+-0.613
+Solar irradiance
+9082.7
+Black-body temperature
+439.6
+Topographic range
+7
+Moment of inertia
+0.35
+J2
+50.3
+Number of natural satellite
+0
+Planetary ring syste
+No
+Semimajor axis
+57.91
+Sidereal orbit period
+87.969
+Tropical orbit period
+87.968
+Perihelion
+46.00
+Aphelion
+69.82
+Synodic period
+115.88
+Mean orbital velocity
+47.36
+Max. orbital velocity
+58.98
+Min. orbital velocity
+38.86
+Orbit inclination
+7.00
+Orbit eccentricit
+0.2056
+Sidereal rotation period
+1407.6
+Length of day
+4222.6
+Obliquity to orbit
+0.034
+Inclination of equator
+0.034
+planet_name
+Mercury
+Equatorial
+null
+radius
+null
+Mass
+0.33011
+Volume
+6.083
+Equatorial radius
+2439.7
+Polar radius
+2439.7
+Volumetric mean radius
+2439.7
+Ellipticity
+0.0000
+Mean density
+5427
+Surface gravity
+3.70
+Surface acceleration
+3.70
+Escape velocity
+4.3
+GM
+0.022032
+Bond albed
+0.068
+Geometric albed
+0.142
+V-band magnitude V
+-0.613
+Solar irradiance
+9082.7
+Black-body temperature
+439.6
+Topographic range
+7
+Moment of inertia
+0.35
+J2
+50.3
+Number of natural satellite
+0
+Planetary ring syste
+No
+Semimajor axis
+57.91
+Sidereal orbit period
+87.969
+Tropical orbit period
+87.968
+Perihelion
+46.00
+Aphelion
+69.82
+Synodic period
+115.88
+Mean orbital velocity
+47.36
+Max. orbital velocity
+58.98
+Min. orbital velocity
+38.86
+Orbit inclination
+7.00
+Orbit eccentricit
+0.2056
+Sidereal rotation period
+1407.6
+Length of day
+4222.6
+Obliquity to orbit
+0.034
+Inclination of equator
+0.034
+planet_name
+Mercury
+Equatorial
+null
+radius
+null
+Mass
+0.33011
+Volume
+6.083
+Equatorial radius
+2439.7
+Polar radius
+2439.7
+Volumetric mean radius
+2439.7
+Ellipticity
+0.0000
+Mean density
+5427
+Surface gravity
+3.70
+Surface acceleration
+3.70
+Escape velocity
+4.3
+GM
+0.022032
+Bond albed
+0.068
+Geometric albed
+0.142
+V-band magnitude V
+-0.613
+Solar irradiance
+9082.7
+Black-body temperature
+439.6
+Topographic range
+7
+Moment of inertia
+0.35
+J2
+50.3
+Number of natural satellite
+0
+Planetary ring syste
+No
+Semimajor axis
+57.91
+Sidereal orbit period
+87.969
+Tropical orbit period
+87.968
+Perihelion
+46.00
+Aphelion
+69.82
+Synodic period
+115.88
+Mean orbital velocity
+47.36
+Max. orbital velocity
+58.98
+Min. orbital velocity
+38.86
+Orbit inclination
+7.00
+Orbit eccentricit
+0.2056
+Sidereal rotation period
+1407.6
+Length of day
+4222.6
+Obliquity to orbit
+0.034
+Inclination of equator
+0.034
+planet_name
+Mercury
+Equatorial
+null
+radius
+null
+Mass
+4.8675
+Volume
+92.843
+Equatorial radius
+6051.8
+Polar radius
+6051.8
+Volumetric mean radius
+6051.8
+Ellipticity
+0.000
+Mean density
+5243
+Surface gravity
+8.87
+Surface acceleration
+8.87
+Escape velocity
+10.36
+GM
+0.32486
+Bond albed
+0.77
+Geometric albed
+0.689
+V-band magnitude V
+-4.38
+Solar irradiance
+2601.3
+Black-body temperature
+226.6
+Topographic range
+13
+Moment of inertia
+0.33
+J2
+4.458
+Number of natural satellite
+0
+Planetary ring syste
+No
+Semimajor axis
+108.21
+Sidereal orbit period
+224.701
+Tropical orbit period
+224.695
+Perihelion
+107.48
+Aphelion
+108.94
+Synodic period
+583.92
+Mean orbital velocity
+35.02
+Max. orbital velocity
+35.26
+Min. orbital velocity
+34.79
+Orbit inclination
+3.39
+Orbit eccentricit
+0.0067
+Sidereal rotation period
+-5832.6
+Length of day
+2802.0
+Obliquity to orbit
+177.36
+Inclination of equator
+2.64
+planet_name
+Venus
+Equatorial
+null
+radius
+null
+Mass
+0.33011
+Volume
+6.083
+Equatorial radius
+2439.7
+Polar radius
+2439.7
+Volumetric mean radius
+2439.7
+Ellipticity
+0.0000
+Mean density
+5427
+Surface gravity
+3.70
+Surface acceleration
+3.70
+Escape velocity
+4.3
+GM
+0.022032
+Bond albed
+0.068
+Geometric albed
+0.142
+V-band magnitude V
+-0.613
+Solar irradiance
+9082.7
+Black-body temperature
+439.6
+Topographic range
+7
+Moment of inertia
+0.35
+J2
+50.3
+Number of natural satellite
+0
+Planetary ring syste
+No
+Semimajor axis
+57.91
+Sidereal orbit period
+87.969
+Tropical orbit period
+87.968
+Perihelion
+46.00
+Aphelion
+69.82
+Synodic period
+115.88
+Mean orbital velocity
+47.36
+Max. orbital velocity
+58.98
+Min. orbital velocity
+38.86
+Orbit inclination
+7.00
+Orbit eccentricit
+0.2056
+Sidereal rotation period
+1407.6
+Length of day
+4222.6
+Obliquity to orbit
+0.034
+Inclination of equator
+0.034
+planet_name
+Mercury
+Equatorial
+null
+radius
+null
+Mass
+0.33011
+Volume
+6.083
+Equatorial radius
+2439.7
+Polar radius
+2439.7
+Volumetric mean radius
+2439.7
+Ellipticity
+0.0000
+Mean density
+5427
+Surface gravity
+3.70
+Surface acceleration
+3.70
+Escape velocity
+4.3
+GM
+0.022032
+Bond albed
+0.068
+Geometric albed
+0.142
+V-band magnitude V
+-0.613
+Solar irradiance
+9082.7
+Black-body temperature
+439.6
+Topographic range
+7
+Moment of inertia
+0.35
+J2
+50.3
+Number of natural satellite
+0
+Planetary ring syste
+No
+Semimajor axis
+57.91
+Sidereal orbit period
+87.969
+Tropical orbit period
+87.968
+Perihelion
+46.00
+Aphelion
+69.82
+Synodic period
+115.88
+Mean orbital velocity
+47.36
+Max. orbital velocity
+58.98
+Min. orbital velocity
+38.86
+Orbit inclination
+7.00
+Orbit eccentricit
+0.2056
+Sidereal rotation period
+1407.6
+Length of day
+4222.6
+Obliquity to orbit
+0.034
+Inclination of equator
+0.034
+planet_name
+Mercury
+Equatorial
+null
+radius
+null
+Mass
+0.33011
+Volume
+6.083
+Equatorial radius
+2439.7
+Polar radius
+2439.7
+Volumetric mean radius
+2439.7
+Ellipticity
+0.0000
+Mean density
+5427
+Surface gravity
+3.70
+Surface acceleration
+3.70
+Escape velocity
+4.3
+GM
+0.022032
+Bond albed
+0.068
+Geometric albed
+0.142
+V-band magnitude V
+-0.613
+Solar irradiance
+9082.7
+Black-body temperature
+439.6
+Topographic range
+7
+Moment of inertia
+0.35
+J2
+50.3
+Number of natural satellite
+0
+Planetary ring syste
+No
+Semimajor axis
+57.91
+Sidereal orbit period
+87.969
+Tropical orbit period
+87.968
+Perihelion
+46.00
+Aphelion
+69.82
+Synodic period
+115.88
+Mean orbital velocity
+47.36
+Max. orbital velocity
+58.98
+Min. orbital velocity
+38.86
+Orbit inclination
+7.00
+Orbit eccentricit
+0.2056
+Sidereal rotation period
+1407.6
+Length of day
+4222.6
+Obliquity to orbit
+0.034
+Inclination of equator
+0.034
+planet_name
+Mercury
+Equatorial
+null
+radius
+null
+Mass
+4.8675
+Volume
+92.843
+Equatorial radius
+6051.8
+Polar radius
+6051.8
+Volumetric mean radius
+6051.8
+Ellipticity
+0.000
+Mean density
+5243
+Surface gravity
+8.87
+Surface acceleration
+8.87
+Escape velocity
+10.36
+GM
+0.32486
+Bond albed
+0.77
+Geometric albed
+0.689
+V-band magnitude V
+-4.38
+Solar irradiance
+2601.3
+Black-body temperature
+226.6
+Topographic range
+13
+Moment of inertia
+0.33
+J2
+4.458
+Number of natural satellite
+0
+Planetary ring syste
+No
+Semimajor axis
+108.21
+Sidereal orbit period
+224.701
+Tropical orbit period
+224.695
+Perihelion
+107.48
+Aphelion
+108.94
+Synodic period
+583.92
+Mean orbital velocity
+35.02
+Max. orbital velocity
+35.26
+Min. orbital velocity
+34.79
+Orbit inclination
+3.39
+Orbit eccentricit
+0.0067
+Sidereal rotation period
+-5832.6
+Length of day
+2802.0
+Obliquity to orbit
+177.36
+Inclination of equator
+2.64
+planet_name
+Venus
+Equatorial
+null
+radius
+null
+Mass
+0.07346
+Volume
+2.1968
+Equatorial radius
+1738.1
+Polar radius
+1736.0
+Volumetric mean radius
+1737.4
+Ellipticity
+0.0012
+Mean density
+3344
+Surface gravity
+1.62
+Surface acceleration
+1.62
+Escape velocity
+2.38
+GM
+0.00490
+Bond albed
+0.11
+Geometric albed
+0.12
+V-band magnitude V
+-0.08
+Solar irradiance
+1361.0
+Black-body temperature
+270.4
+Topographic range
+13
+Moment of inertia
+0.394
+J2
+202.7
+Semimajor axis
+0.3844
+Perigee
+0.3633
+Apogee
+0.4055
+Revolution period
+27.3217
+Synodic period
+29.53
+Mean orbital velocity
+1.022
+Max. orbital velocity
+1.082
+Min. orbital velocity
+0.970
+Inclination to ecliptic
+5.145
+Inclination to Earth equator
+18.28 - 28.58
+Orbit eccentricit
+0.0549
+Sidereal rotation period
+655.728
+Obliquity to orbit
+6.68
+Recession rate from Earth
+3.8
+planet_name
+Moon
+Equatorial
+null
+radius
+null
+Number of natural satellite
+null
+Planetary ring syste
+null
+Sidereal orbit period
+null
+Tropical orbit period
+null
+Perihelion
+null
+Aphelion
+null
+Orbit inclination
+null
+Length of day
+null
+Inclination of equator
+null
+Mass
+0.64171
+Volume
+16.318
+Equatorial radius
+3396.2
+Polar radius
+3376.2
+Volumetric mean radius
+3389.5
+Core radius
+1700
+Ellipticity
+0.00589
+Mean density
+3933
+Surface gravity
+3.71
+Surface acceleration
+3.69
+Escape velocity
+5.03
+GM
+0.042828
+Bond albed
+0.250
+Geometric albed
+0.170
+V-band magnitude V
+-1.60
+Solar irradiance
+586.2
+Black-body temperature
+209.8
+Topographic range
+30
+Moment of inertia
+0.366
+J2
+1960.45
+Number of natural satellite
+2
+Planetary ring syste
+No
+Semimajor axis
+227.92
+Sidereal orbit period
+686.980
+Tropical orbit period
+686.973
+Perihelion
+206.62
+Aphelion
+249.23
+Synodic period
+779.94
+Mean orbital velocity
+24.07
+Max. orbital velocity
+26.50
+Min. orbital velocity
+21.97
+Orbit inclination
+1.850
+Orbit eccentricit
+0.0935
+Sidereal rotation period
+24.6229
+Length of day
+24.6597
+Obliquity to orbit
+25.19
+Inclination of equator
+25.19
+planet_name
+Mars
+Equatorial
+null
+radius
+null
+Mass
+1,898.19
+Volume
+143,128
+Equatorial radius
+71,492
+Polar radius
+66,854
+Volumetric mean radius
+69,911
+Ellipticit
+0.06487
+Mean density
+1,326
+Gravity
+24.79
+Acceleration
+23.12
+Escape velocity
+59.5
+GM
+126.687
+Bond albed
+0.343
+Geometric albed
+0.538
+V-band magnitude V
+-9.40
+Solar irradiance
+50.26
+Black-body temperature
+109.9
+Moment of inertia
+0.254
+J2
+14,736
+Number of natural satellite
+79
+Planetary ring syste
+Yes
+Semimajor axis
+778.57
+Sidereal orbit period
+4,332.589
+Tropical orbit period
+4,330.595
+Perihelion
+740.52
+Aphelion
+816.62
+Synodic period
+398.88
+Mean orbital velocity
+13.06
+Max. orbital velocity
+13.72
+Min. orbital velocity
+12.44
+Orbit inclination
+1.304
+Orbit eccentricit
+0.0489
+Sidereal rotation period
+9.9250*
+Length of day
+9.9259
+Obliquity to orbit
+3.13
+Inclination of equator
+3.13
+planet_name
+Jupiter
+Equatorial
+null
+radius
+null
+Ellipticity
+null
+Surface gravity
+null
+Surface acceleration
+null
+Topographic range
+null
+Mass
+568.34
+Volume
+82,713
+Equatorial radius
+60,268
+Polar radius
+54,364
+Volumetric mean radius
+58,232
+Ellipticity
+0.09796
+Mean density
+687
+Gravity
+10.44
+Acceleration
+8.96
+Escape velocity
+35.5
+GM
+37.931
+Bond albed
+0.342
+Geometric albed
+0.499
+V-band magnitude V
+-8.91
+Solar irradiance
+14.82
+Black-body temperature
+81.0
+Moment of inertia
+0.210
+J2
+16,298.
+Number of natural satellite
+82
+Planetary ring syste
+Yes
+Semimajor axis
+1,433.53
+Sidereal orbit period
+10,759.22
+Tropical orbit period
+10,746.94
+Perihelion
+1,352.55
+Aphelion
+1,514.50
+Synodic period
+378.09
+Mean orbital velocity
+9.68
+Max. orbital velocity
+10.18
+Min. orbital velocity
+9.09
+Orbit inclination
+2.485
+Orbit eccentricit
+0.0565
+Sidereal rotation period
+10.656*
+Length of day
+10.656
+Obliquity to orbit
+26.73
+planet_name
+Saturn
+Equatorial
+null
+radius
+null
+Surface gravity
+null
+Surface acceleration
+null
+Topographic range
+null
+Inclination of equator
+null
+Mass
+86.813
+Volume
+6,833
+Equatorial radius
+25,559
+Polar radius
+24,973
+Volumetric mean radius
+25,362
+Ellipticity
+0.02293
+Mean density
+1,271
+Gravity
+8.87
+Acceleration
+8.69
+Escape velocity
+21.3
+GM
+5.7940
+Bond albed
+0.300
+Geometric albed
+0.488
+V-band magnitude V
+-7.11
+Solar irradiance
+3.69
+Black-body temperature
+58.1
+Moment of inertia
+0.225
+J2
+3343.43
+Number of natural satellite
+27
+Planetary ring syste
+Yes
+Semimajor axis
+2,872.46
+Sidereal orbit period
+30,685.4
+Tropical orbit period
+30,588.740
+Perihelion
+2,741.30
+Aphelion
+3,003.62
+Synodic period
+369.66
+Mean orbital velocity
+6.80
+Max. orbital velocity
+7.11
+Min. orbital velocity
+6.49
+Orbit inclination
+0.772
+Orbit eccentricit
+0.0457
+Sidereal rotation period
+-17.24*
+Length of day
+17.24
+Obliquity to orbit
+97.77
+Inclination of equator
+82.23
+planet_name
+Uranus
+Equatorial
+null
+radius
+null
+Surface gravity
+null
+Surface acceleration
+null
+Topographic range
+null
+Mass
+102.413
+Volume
+6, 254
+Equatorial radius
+24,764
+Polar radius
+24,341
+Volumetric mean radius
+24,622
+Ellipticity
+0.01708
+Mean density
+1,638
+Gravity
+11.15
+Acceleration
+11.00
+Escape velocity
+23.5
+GM
+6.8351
+Bond albed
+0.290
+Geometric albed
+0.442
+V-band magnitude V
+-6.94
+Solar irradiance
+1.508
+Black-body temperature
+46.6
+J2
+3411.
+Number of natural satellite
+14
+Planetary ring syste
+Yes
+Semimajor axis
+4,495.06
+Sidereal orbit period
+60,189.
+Tropical orbit period
+59,799.9
+Perihelion
+4,444.45
+Aphelion
+4,545.67
+Synodic period
+367.49
+Mean orbital velocity
+5.43
+Max. orbital velocity
+5.50
+Min. orbital velocity
+5.37
+Orbit inclination
+1.769
+Orbit eccentricit
+0.0113
+Sidereal rotation period
+16.11*
+Length of day
+16.11
+Obliquity to orbit
+28.32
+Inclination of equator
+28.32
+planet_name
+Neptune
+Equatorial
+null
+radius
+null
+Surface gravity
+null
+Surface acceleration
+null
+Topographic range
+null
+Moment of inertia
+null
+Mass
+0.01303
+Volume
+0.702
+Equatorial radius
+1188
+Polar radius
+1188
+Volumetric mean radius
+1188
+Ellipticity
+0.0000
+Mean density
+1854
+Surface Gravity
+0.62
+Surface acceleration
+0.62
+Escape velocity
+1.21
+GM
+0.000870
+Bond albed
+0.72
+Geometric albed
+0.52
+V-band magnitude V
+-1.0
+Solar irradiance
+0.873
+Black-body temperature
+37.5
+Number of natural satellite
+5
+Planetary ring syste
+No
+Semimajor axis
+5906.38
+Sidereal orbit period
+90,560
+Tropical orbit period
+Unknown
+Perihelion
+4436.82
+Aphelion
+7375.93
+Synodic period
+366.73
+Mean orbital velocity
+4.67
+Max. orbital velocity
+6.10
+Min. orbital velocity
+3.71
+Orbit inclination
+17.16
+Orbit eccentricit
+0.2488
+Sidereal rotation period
+-153.2928
+Length of day
+153.2820
+Obliquity to orbit
+122.53
+Inclination of equator
+57.47
+planet_name
+Pluto
+Equatorial
+null
+radius
+null
+Surface gravity
+null
+Topographic range
+null
+Moment of inertia
+null
+J2
+null
