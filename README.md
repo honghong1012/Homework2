@@ -40,4 +40,8 @@ crawl_page_database
 |Inclination of equator		|i_o_e			|
 |planet_name				|planet_name	|
 
+
+增加了爬取斗鱼直播平台的数据 才live_crawl里面：
+字段可以在dbs文件里面查看
+
  
