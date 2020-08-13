@@ -1,5 +1,5 @@
 from mongoengine import *
-from dbs import Planet
+from dbs import Live
 
 connect('planets')
 # print("Listing countries:")
@@ -10,7 +10,7 @@ connect('planets')
 #     print(f"\tcurrency_code = {country.currency_code}")
 
 # Delete all records.
-Planet.drop_collection()
+Live.drop_collection()
 
 # Count all records.
 # print(Planet.objects.count())

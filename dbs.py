@@ -36,3 +36,22 @@ class Planet(Document):
     l_o_day = StringField(required=False)
     o_t_o = StringField(required=False)
     i_o_e = StringField(required=False)
+
+
+class Live(Document):
+    home_name = StringField(required=False)
+    type = StringField(required=False)
+    host_name = StringField(required=False)
+    number = StringField(required=False)
+
+
+class Movie(Document):
+    name = StringField(required=False)
+    author = StringField(required=False)
+    actor = StringField(required=False)
+    score = StringField(required=False)
+    rank = StringField(required=False)
+    people = StringField(required=False)
+    year = StringField(required=False)
+    country = StringField(required=False)
+    type = StringField(required=False)
